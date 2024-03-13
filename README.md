@@ -34,9 +34,10 @@ Most work uses existing LLMs to generate/improve solutions\*, algorithms\* (hype
 
 ### Domain FMs for Combinatorial Optimization
 
-Building a unified domain foundation model that can solve a wide range of COPs may be an interesting and challenging topic. Some recent work puts efforts towards this ambitious goal by developing multi-task neural solvers, despite only in a few-shot* or limited zero-shot* way to solve new problem variants.
+Building a domain foundation model that can solve a wide range of COPs may be an interesting and challenging topic. Some recent work puts efforts towards this ambitious goal by devising a unified architecture* or representation* for different COPs.
 
-|  Date   |                            Paper                             |        Link        | Problem |  Venue  |       Remark*       |
-| :-----: | :----------------------------------------------------------: | :----------------: | :-----: | :-----: | :-----------------: |
-| 2023.05 | [Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits](https://arxiv.org/pdf/2305.06361.pdf) | &emsp;&emsp;&emsp; |  `VRP`  | *ArXiv* |      Few-Shot       |
-| 2024.02 | [Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization](https://arxiv.org/pdf/2402.16891.pdf) |                    |  `VRP`  | *ArXiv* | (Limited) Zero-Shot |
+|  Date   |                            Paper                             |                             Link                             |      Problem      |  Venue  |    Remark*     |
+| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------: | :-----: | :------------: |
+| 2023.05 | [Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits](https://arxiv.org/pdf/2305.06361.pdf) |                      &emsp;&emsp;&emsp;                      | `TSP,VRP, OP,KP`  | *ArXiv* |  Architecture  |
+| 2024.02 | [Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization](https://arxiv.org/pdf/2402.16891.pdf) |                                                              |       `VRP`       | *ArXiv* |  Architecture  |
+| 2024.03 | [Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches](https://arxiv.org/pdf/2403.06026.pdf) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/corail-research/learning-generic-csp) | `SAT,TSP, COL,KP` | *ArXiv* | Representation |
