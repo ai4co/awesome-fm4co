@@ -29,6 +29,7 @@ Most work uses existing LLMs to generate/improve solutions\*, algorithms\* (hype
 | 2024.02 | [From Large Language Models and Optimization to Decision Optimization CoPilot: A Research Manifesto](https://arxiv.org/pdf/2402.16269.pdf) |                                                              |        `MILP`         |    *ArXiv*     |    Automation    |
 | 2024.03 | [How Multimodal Integration Boost the Performance of LLM for Optimization: Case Study on Capacitated Vehicle Routing Problems](https://arxiv.org/pdf/2403.01757.pdf) |                                                              |         `VRP`         |    *ArXiv*     |     Solution     |
 | 2024.03 | [RouteExplainer: An Explanation Framework for Vehicle Routing Problem](https://arxiv.org/pdf/2403.03585.pdf) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ntt-dkiku/route-explainer) <br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://ntt-dkiku.github.io/xai-vrp) |         `VRP`         |  *PAKDD 2024*  | Interpretability |
+| 2024.03 | [From Words to Routes: Applying Large Language Models to Vehicle Routing](https://arxiv.org/pdf/2403.10795.pdf) | [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://sites.google.com/view/words-to-routes) |         `VRP`         |    *ArXiv*     |    Algorithm     |
 
 ----
 
