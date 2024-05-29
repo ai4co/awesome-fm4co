@@ -30,6 +30,7 @@ Most research utilizes existing LLMs to generate/improve solutions\*, algorithms
 | 2024.03 | [RouteExplainer: An Explanation Framework for Vehicle Routing Problem](https://arxiv.org/pdf/2403.03585.pdf) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ntt-dkiku/route-explainer) <br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://ntt-dkiku.github.io/xai-vrp) |         `VRP`         |  *PAKDD 2024*  | Interpretability |
 | 2024.03 | [From Words to Routes: Applying Large Language Models to Vehicle Routing](https://arxiv.org/pdf/2403.10795.pdf) | [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://sites.google.com/view/words-to-routes) |         `VRP`         |    *ArXiv*     |    Algorithm     |
 | 2024.05 | [Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Mode](https://arxiv.org/pdf/2401.02051) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/FeiLiu36/EoH) | `TSP`,`BPP`, `FSSP`  |  *ICML 2024*   |    Algorithm     |
+| 2024.05 | [Self-Guiding Exploration for Combinatorial Problems](https://arxiv.org/pdf/2405.17950) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Zangir/LLM-for-CP) | `TSP`,`VRP`,`BPP`, `AP`,`KP`,`JSSP` | *ArXiv* | Solution |
 
 ----
 
