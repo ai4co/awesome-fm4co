@@ -30,6 +30,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.05 | [Self-Guiding Exploration for Combinatorial Problems](https://arxiv.org/pdf/2405.17950) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Zangir/LLM-for-CP) | `TSP,VRP,BPP, AP,KP,JSSP` | *arXiv* | Solution |
 | 2024.06 | [Eyeballing Combinatorial Problems: A Case Study of Using Multimodal Large Language Models to Solve Traveling Salesman Problems](https://arxiv.org/pdf/2406.06865) |  | `TSP` | *arXiv* | Solution |
 | 2024.07 | [Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges](https://arxiv.org/pdf/2407.00092) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ahmed-abdulhuy/Solving-TSP-and-mTSP-Combinatorial-Challenges-using-Visual-Reasoning-and-Multi-Agent-Approach-MLLMs-) | `TSP,mTSP` | *arXiv* | Solution |
+| 2024.07 | [Solving General Natural-Language-Description Optimization Problems with Large Language Models](https://arxiv.org/pdf/2407.07924) | [![Code](https://img.shields.io/badge/Demo-74aa9c?style=for-the-badge)](https://opt.alibabacloud.com/chat) | `MILP` | *NAACL 2024* | Automation |
 
 ----
 
