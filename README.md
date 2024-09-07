@@ -49,4 +49,5 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 | 2024.06 | [RouteFinder: Towards Foundation Models for Vehicle Routing Problems](https://arxiv.org/pdf/2406.15007) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ai4co/routefinder) |                 `24VRPs`                 |   *arXiv*    |
 | 2024.06 | [GOAL: A Generalist Combinatorial Optimization Agent Learner](https://arxiv.org/pdf/2406.15079) |                                                              | `(A)TSP,4VRPs, OP,JSSP,UMSP, KP,MVC,MIS` |   *arXiv*    |
 | 2024.08 | [UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model](https://arxiv.org/pdf/2408.12214) |                                                              |        `TSP,CVRP,KP, MVCP,SMTWTP`        |   *arXiv*    |
+| 2024.09 | [MAPF-GPT: Imitation Learning for Multi-Agent Pathfinding at Scale](https://arxiv.org/pdf/2409.00134) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Cognitive-AI-Systems/MAPF-GPT) |                  `MAPF`                  |   *arXiv*    |
 
