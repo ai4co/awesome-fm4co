@@ -34,7 +34,8 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.08 | [Diagnosing Infeasible Optimization Problems Using Large Language Models](https://arxiv.org/pdf/2308.12923) |  | `MILP` | *INFOR* | Formulation |
 | 2024.08 | [LLMs can Schedule](https://arxiv.org/pdf/2408.06993) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/starjob42/datasetjsp) | `JSSP` | *arXiv* | Solution |
 | 2024.09 | [Multi-objective Evolution of Heuristic Using Large Language Model](https://arxiv.org/pdf/2409.16867) |  | `TSP,BPP` | *arXiv* | Algorithm |
-| 2024.10 | [Towards Foundation Models for Mixed Integer Linear Programming](https://arxiv.org/pdf/2410.08288) |  |          `MILP`           | *arXiv* | Formulation |
+| 2024.10 | [Towards Foundation Models for Mixed Integer Linear Programming](https://arxiv.org/pdf/2410.08288) |  |          `MILP`           |    *arXiv*     | Formulation |
+| 2024.10 | [LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch](https://arxiv.org/pdf/2410.13213) | | `General OPT` | *arXiv* | Formulation |
 
 ----
 
