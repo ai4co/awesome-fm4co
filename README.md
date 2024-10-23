@@ -36,6 +36,16 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.09 | [Multi-objective Evolution of Heuristic Using Large Language Model](https://arxiv.org/pdf/2409.16867) |  | `TSP,BPP` | *arXiv* | Algorithm |
 | 2024.10 | [Towards Foundation Models for Mixed Integer Linear Programming](https://arxiv.org/pdf/2410.08288) |  |          `MILP`           |    *arXiv*     | Formulation |
 | 2024.10 | [LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch](https://arxiv.org/pdf/2410.13213) | | `General OPT` | *arXiv* | Formulation |
+| 2024.10 | [Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems](https://openreview.net/forum?id=Usk4KzBxLW) | | `MILP` | *Under Review* | Algorithm |
+| 2024.10 | [HeurAgenix: A Multi-Agent LLM-Based Paradigm for Adaptive Heuristic Evolution and Selection in Combinatorial Optimization](https://openreview.net/forum?id=xxSK3ZNAhh) | | `TSP,CVRP,JSSP, MaxCut,MKP` | *Under Review* | Algorithm |
+| 2024.10 | [Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models](https://openreview.net/forum?id=0fwJMANq9P) | | `TSP,CVRP, BPP,MKP` | *Under Review* | Algorithm |
+| 2024.10 | [OptiBench: Benchmarking Large Language Models in Optimization Modeling with Equivalence-Detection Evaluation](https://openreview.net/forum?id=KD9F5Ap878) | | `MILP` | *Under Review* | Benchmark |
+| 2024.10 | [OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling](https://openreview.net/forum?id=fsDZwS49uY) | | `MILP` | *Under Review* | Benchmark |
+| 2024.10 | [DRoC: Elevating Large Language Models for Complex Vehicle Routing via Decomposed Retrieval of Constraints](https://openreview.net/forum?id=s9zoyICZ4k) | | `48VRPs` | *Under Review* | Formulation |
+| 2024.10 | [STARJOB: Dataset for LLM-Driven Job Shop Scheduling](https://openreview.net/forum?id=z4Ho599uOL) | | `JSSP` | *Under Review* | Solution |
+| 2024.10 | [LLM4Solver: Large Language Model for Efficient Algorithm Design of Combinatorial Optimization Solver](https://openreview.net/forum?id=XTxdDEFR6D) | | `MILP` | *Under Review* | Algorithm |
+| 2024.10 | [Unifying All Species: LLM-based Hyper-Heuristics for Multi-objective Optimization](https://openreview.net/forum?id=sUywd7UhFT) | | `TSP` | *Under Review* | Algorithm |
+| 2024.10 | Evo-Step: Evolutionary Generation and Stepwise Validation for Optimizing LLMs in OR | | `MILP` | *Under Review* | Formulation |
 
 ----
 
