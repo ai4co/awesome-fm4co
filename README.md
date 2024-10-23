@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9f8a6e3f-0ab1-42ce-a802-1998d61cc4d2)<h1 align="center">Foundation Models for Combinatorial Optimization</h1>
+<h1 align="center">Foundation Models for Combinatorial Optimization</h1>
 
 FM4CO contains interesting research papers (1) using **Existing Large Language Models for Combinatorial Optimization**, and (2) building **Domain Foundation Models for Combinatorial Optimization**.
 
