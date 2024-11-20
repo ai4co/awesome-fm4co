@@ -47,6 +47,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.10 | [Unifying All Species: LLM-based Hyper-Heuristics for Multi-objective Optimization](https://openreview.net/forum?id=sUywd7UhFT) | | `TSP` | *Under Review* | Algorithm |
 | 2024.10 | [Evo-Step: Evolutionary Generation and Stepwise Validation for Optimizing LLMs in OR](https://openreview.net/forum?id=aapUBU9U0D) | | `MILP` | *Under Review* | Formulation |
 | 2024.10 | [Automatic programming via large language models with population self-evolution for dynamic job shop scheduling problem](https://arxiv.org/pdf/2410.22657) | | `DyJSSP` | *arXiv* | Algorithm |
+| 2024.11 | [Large Language Models for Combinatorial Optimization of Design Structure Matrix](https://arxiv.org/pdf/2411.12571) | | `DSM` | *arXiv* | Solution |
 
 ----
 
