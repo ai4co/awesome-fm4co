@@ -49,6 +49,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.10 | [Automatic programming via large language models with population self-evolution for dynamic job shop scheduling problem](https://arxiv.org/pdf/2410.22657) | | `DyJSSP` | *arXiv* | Algorithm |
 | 2024.11 | [Large Language Models for Combinatorial Optimization of Design Structure Matrix](https://arxiv.org/pdf/2411.12571) | | `DSM` | *arXiv* | Solution |
 | 2024.12 | [HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven Harmony Search and Genetic Algorithm Using LLMs](https://arxiv.org/pdf/2412.14995) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/datphamvn/HSEvo) | `TSP,BPP,OP` | *AAAI 2025* | Algorithm |
+| 2024.12 | [Evaluating LLM Reasoning in the Operations Research Domain with ORQA](https://arxiv.org/pdf/2412.17874) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/nl4opt/ORQA) | `General OR` | *AAAI 2025* | Algorithm |
 
 ----
 
