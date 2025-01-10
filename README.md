@@ -74,4 +74,5 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 | 2024.10 | [SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder](https://openreview.net/forum?id=AMbIvaD4Rr) | | `16VRPs` | *Under Review* |
 | 2024.10 | [Unified Neural Solvers for General TSP and Multiple Combinatorial Optimization Tasks via Problem Reduction and Matrix Encoding](https://openreview.net/forum?id=yEwakMNIex) | | `(A)TSP,DHCP, 3SAT` | *Under Review* |
 | 2024.11 | [CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention](https://arxiv.org/pdf/2412.00346) | | `16VRPs` | *arXiv* |
+| 2024.12 | [Multi-task Representation Learning for Mixed Integer Linear Programming](https://arxiv.org/pdf/2412.14409) | | `MILP` | *arXiv* |
 
