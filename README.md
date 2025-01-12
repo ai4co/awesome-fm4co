@@ -59,6 +59,7 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 
 |  Date   |                            Paper                             |                             Link                             |                 Problem                  |    Venue     |
 | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------: | :----------: |
+| 2022.08 | [One Model, Any CSP: Graph Neural Networks as Fast Global Search Heuristics for Constraint Satisfaction](https://arxiv.org/pdf/2208.10227) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/toenshoff/ANYCSP) | `CSP` | *IJCAI 2023* |
 | 2023.05 | [Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits](https://arxiv.org/pdf/2305.06361) |                      &emsp;&emsp;&emsp;                      |             `TSP,VRP,OP,KP`              |   *arXiv*    |
 | 2024.02 | [Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization](https://arxiv.org/pdf/2402.16891) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/FeiLiu36/MTNCO) |                 `16VRPs`                 |  *KDD 2024*  |
 | 2024.03 | [Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches](https://arxiv.org/pdf/2403.06026) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/corail-research/learning-generic-csp) |             `SAT,TSP,COL,KP`             |   *arXiv*    |
@@ -74,5 +75,5 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 | 2024.10 | [SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder](https://openreview.net/forum?id=AMbIvaD4Rr) | | `16VRPs` | *Under Review* |
 | 2024.10 | [Unified Neural Solvers for General TSP and Multiple Combinatorial Optimization Tasks via Problem Reduction and Matrix Encoding](https://openreview.net/forum?id=yEwakMNIex) | | `(A)TSP,DHCP, 3SAT` | *Under Review* |
 | 2024.11 | [CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention](https://arxiv.org/pdf/2412.00346) | | `16VRPs` | *arXiv* |
-| 2024.12 | [Multi-task Representation Learning for Mixed Integer Linear Programming](https://arxiv.org/pdf/2412.14409) | | `MILP` | *arXiv* |
+| 2024.12 | [Multi-task Representation Learning for Mixed Integer Linear Programming](https://arxiv.org/pdf/2412.14409) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/caidog1129/MILP_multitask) | `MILP` | *arXiv* |
 
