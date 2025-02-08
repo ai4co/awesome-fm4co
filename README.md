@@ -52,6 +52,8 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.12 | [HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven Harmony Search and Genetic Algorithm Using LLMs](https://arxiv.org/pdf/2412.14995) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/datphamvn/HSEvo) | `TSP,BPP,OP` | *AAAI 2025* | Algorithm |
 | 2024.12 | [Evaluating LLM Reasoning in the Operations Research Domain with ORQA](https://arxiv.org/pdf/2412.17874) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/nl4opt/ORQA) | `General OR` | *AAAI 2025* | Benchmark |
 | 2025.01 | [Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design](https://arxiv.org/pdf/2501.08603) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/zz1358m/MCTS-AHD-master) | `TSP,CVRP,KP, BPP,MKP,ASP` | *arXiv* | Algorithm |
+| 2025.01 | [Bridging Visualization and Optimization: Multimodal Large Language Models on Graph-Structured Combinatorial Optimization](https://arxiv.org/pdf/2501.11968) || `Influence Maximization, Network Dismantling` | *arXiv* | Algorithm |
+| 2025.01 | [Can Large Language Models Be Trusted as Black-Box Evolutionary Optimizers for Combinatorial Problems?](https://arxiv.org/pdf/2501.15081) || `Influence Maximization` | *arXiv* | Algorithm |
 
 ----
 
