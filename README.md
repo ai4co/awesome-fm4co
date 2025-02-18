@@ -55,6 +55,8 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.01 | [Bridging Visualization and Optimization: Multimodal Large Language Models on Graph-Structured Combinatorial Optimization](https://arxiv.org/pdf/2501.11968) || `Influence Maximization, Network Dismantling` | *arXiv* | Algorithm |
 | 2025.01 | [Can Large Language Models Be Trusted as Black-Box Evolutionary Optimizers for Combinatorial Problems?](https://arxiv.org/pdf/2501.15081) || `Influence Maximization` | *arXiv* | Algorithm |
 | 2025.02 | [Improving Existing Optimization Algorithms with LLMs](https://arxiv.org/pdf/2502.08298) || `MIS` | *arXiv* | Algorithm |
+| 2025.02 | [Planning of Heuristics: Strategic Planning on Large Language Models with Monte Carlo Tree Search for Automating Heuristic Optimization](https://arxiv.org/pdf/2502.11422) || `TSP,FSSP` | *arXiv* | Algorithm |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
