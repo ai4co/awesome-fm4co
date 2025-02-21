@@ -56,6 +56,8 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.01 | [Can Large Language Models Be Trusted as Black-Box Evolutionary Optimizers for Combinatorial Problems?](https://arxiv.org/pdf/2501.15081) || `Influence Maximization` | *arXiv* | Algorithm |
 | 2025.02 | [Improving Existing Optimization Algorithms with LLMs](https://arxiv.org/pdf/2502.08298) || `MIS` | *arXiv* | Algorithm |
 | 2025.02 | [Planning of Heuristics: Strategic Planning on Large Language Models with Monte Carlo Tree Search for Automating Heuristic Optimization](https://arxiv.org/pdf/2502.11422) || `TSP,FSSP` | *arXiv* | Algorithm |
+| 2025.02 | [GraphThought: Graph Combinatorial Optimization with Thought Generation](https://arxiv.org/pdf/2502.11607) || `MIS,MVC,TSP` | *arXiv* | Algorithm |
+| 2025.02 | [EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations](https://arxiv.org/pdf/2502.14760) || `MILP` | *arXiv* | Algorithm |
 
 ----
 
