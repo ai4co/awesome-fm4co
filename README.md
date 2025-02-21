@@ -57,7 +57,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.02 | [Improving Existing Optimization Algorithms with LLMs](https://arxiv.org/pdf/2502.08298) || `MIS` | *arXiv* | Algorithm |
 | 2025.02 | [Planning of Heuristics: Strategic Planning on Large Language Models with Monte Carlo Tree Search for Automating Heuristic Optimization](https://arxiv.org/pdf/2502.11422) || `TSP,FSSP` | *arXiv* | Algorithm |
 | 2025.02 | [GraphThought: Graph Combinatorial Optimization with Thought Generation](https://arxiv.org/pdf/2502.11607) || `MIS,MVC,TSP` | *arXiv* | Algorithm |
-| 2025.02 | [EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations](https://arxiv.org/pdf/2502.14760) || `MILP` | *arXiv* | Algorithm |
+| 2025.02 | [EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations](https://arxiv.org/pdf/2502.14760) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/HumainLab/EquivaMap)| `MILP` | *arXiv* | Algorithm |
 
 ----
 
