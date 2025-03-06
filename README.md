@@ -59,7 +59,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.02 | [GraphThought: Graph Combinatorial Optimization with Thought Generation](https://arxiv.org/pdf/2502.11607) || `MIS,MVC,TSP` | *arXiv* | Algorithm |
 | 2025.02 | [EquivaMap: Leveraging LLMs for Automatic Equivalence Checking of Optimization Formulations](https://arxiv.org/pdf/2502.14760) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/HumainLab/EquivaMap)| `MILP` | *arXiv* | Algorithm |
 | 2025.02 | [ARS: Automatic Routing Solver with Large Language Models](https://arxiv.org/pdf/2502.15359) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Ahalikai/ARS-Routbench)| `VRP` | *arXiv* | Benchmark & Algorithm |
-| 2025.02 | [Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems](https://arxiv.org/pdf/2503.03350) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/nico-koltermann/contextual-evolution-of-heuristics)| `UPMP` | *arXiv* | Algorithm |
+| 2025.03 | [Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems](https://arxiv.org/pdf/2503.03350) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/nico-koltermann/contextual-evolution-of-heuristics)| `UPMP` | *arXiv* | Algorithm |
 
 ----
 
