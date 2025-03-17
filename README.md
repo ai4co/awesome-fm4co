@@ -62,7 +62,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.02 | [Text2Zinc: A Cross-Domain Dataset for Modeling Optimization and Satisfaction Problems in MiniZinc](https://arxiv.org/pdf/2503.10642) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/skadio/text2zinc)| `LP,MIP,CP` | *arXiv* | Formulation (Dataset) |
 | 2025.03 | [Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems](https://arxiv.org/pdf/2503.03350) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/nico-koltermann/contextual-evolution-of-heuristics)| `UPMP` | *arXiv* | Algorithm |
 | 2025.03 | [OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problem with Reasoning Large Language Model](https://arxiv.org/pdf/2503.10009) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/bwz96sco/or_llm_agent)| `OP` | *arXiv* | Formulation |
-| 2025.03 | [Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms](https://arxiv.org/pdf/2503.10968) | | `TSP` | *arXiv* | Algorithm |
+| 2025.03 | [Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms](https://arxiv.org/pdf/2503.10968) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/camilochs/comb-opt-for-all)| `TSP` | *arXiv* | Algorithm |
 
 ----
 
