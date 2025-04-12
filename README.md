@@ -66,6 +66,9 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.03 | [Combinatorial Optimization for All: Using LLMs to Aid Non-Experts in Improving Optimization Algorithms](https://arxiv.org/pdf/2503.10968) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/camilochs/comb-opt-for-all)<br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://camilochs.github.io/comb-opt-for-all/)| `TSP` | *arXiv* | Algorithm |
 | 2025.03 | [Automatic MILP Model Construction for Multi-Robot Task Allocation and Scheduling Based on Large Language Models](https://arxiv.org/pdf/2503.13813) || `MILP` | *arXiv* | Formulation |
 | 2025.03 | [Code Evolution Graphs: Understanding Large Language Model Driven Design of Algorithms](https://arxiv.org/pdf/2503.16668) || `BBO, TSP, BPP` | *arXiv* | Interpretability |
+| 2025.04 | [CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization](https://arxiv.org/pdf/2504.04310) || `General COP` | *arXiv* | Benchmark |
+| 2025.04 | [Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning](https://arxiv.org/pdf/2504.05108) || `BP, TSP, FP` | *arXiv* | Algorithm |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
