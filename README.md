@@ -34,7 +34,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.07 | [Solving General Natural-Language-Description Optimization Problems with Large Language Models](https://arxiv.org/pdf/2407.07924) | [![Code](https://img.shields.io/badge/Demo-74aa9c?style=for-the-badge)](https://opt.alibabacloud.com/chat) | `MILP` | *NAACL 2024* | Formulation |
 | 2024.08 | [Diagnosing Infeasible Optimization Problems Using Large Language Models](https://arxiv.org/pdf/2308.12923) |  | `MILP` | *INFOR* | Formulation |
 | 2024.08 | [LLMs can Schedule](https://arxiv.org/pdf/2408.06993) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/starjob42/datasetjsp) | `JSSP` | *arXiv* | Solution |
-| 2024.09 | [Multi-objective Evolution of Heuristic Using Large Language Model](https://arxiv.org/pdf/2409.16867) |  | `TSP,BPP` | *arXiv* | Algorithm |
+| 2024.09 | [Multi-objective Evolution of Heuristic Using Large Language Model](https://arxiv.org/pdf/2409.16867) |  | `TSP,BPP` | *AAAI 2025* | Algorithm |
 | 2024.10 | [Towards Foundation Models for Mixed Integer Linear Programming](https://arxiv.org/pdf/2410.08288) |  |          `MILP`           |    *ICLR 2025*    | Formulation |
 | 2024.10 | [LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch](https://arxiv.org/pdf/2410.13213) | | `General OPT` | *ICLR 2025* | Formulation |
 | 2024.10 | [Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems](https://openreview.net/forum?id=Usk4KzBxLW) | | `MILP` | *Under Review* | Algorithm |
