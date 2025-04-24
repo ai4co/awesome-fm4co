@@ -68,6 +68,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.03 | [Code Evolution Graphs: Understanding Large Language Model Driven Design of Algorithms](https://arxiv.org/pdf/2503.16668) || `BBO, TSP, BPP` | *arXiv* | Interpretability |
 | 2025.04 | [CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization](https://arxiv.org/pdf/2504.04310) || `General COP` | *arXiv* | Benchmark |
 | 2025.04 | [Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning](https://arxiv.org/pdf/2504.05108) || `BP, TSP, FP` | *arXiv* | Algorithm |
+| 2025.04 | [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://arxiv.org/pdf/2504.16918) || `MILP` | *arXiv* | Formulation |
 
 ----
 
