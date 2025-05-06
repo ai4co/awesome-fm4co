@@ -51,7 +51,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.11 | [Large Language Models for Combinatorial Optimization of Design Structure Matrix](https://arxiv.org/pdf/2411.12571) | | `DSM` | *arXiv* | Solution |
 | 2024.12 | [HSEvo: Elevating Automatic Heuristic Design with Diversity-Driven Harmony Search and Genetic Algorithm Using LLMs](https://arxiv.org/pdf/2412.14995) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/datphamvn/HSEvo) | `TSP,BPP,OP` | *AAAI 2025* | Algorithm |
 | 2024.12 | [Evaluating LLM Reasoning in the Operations Research Domain with ORQA](https://arxiv.org/pdf/2412.17874) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/nl4opt/ORQA) | `General OR` | *AAAI 2025* | Benchmark |
-| 2025.01 | [Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design](https://arxiv.org/pdf/2501.08603) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/zz1358m/MCTS-AHD-master) | `TSP,CVRP,KP, BPP,MKP,ASP` | *arXiv* | Algorithm |
+| 2025.01 | [Monte Carlo Tree Search for Comprehensive Exploration in LLM-Based Automatic Heuristic Design](https://arxiv.org/pdf/2501.08603) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/zz1358m/MCTS-AHD-master) | `TSP,CVRP,KP, BPP,MKP,ASP` | *ICML 2025* | Algorithm |
 | 2025.01 | [Bridging Visualization and Optimization: Multimodal Large Language Models on Graph-Structured Combinatorial Optimization](https://arxiv.org/pdf/2501.11968) || `Influence Maximization, Network Dismantling` | *arXiv* | Algorithm |
 | 2025.01 | [Can Large Language Models Be Trusted as Black-Box Evolutionary Optimizers for Combinatorial Problems?](https://arxiv.org/pdf/2501.15081) || `Influence Maximization` | *arXiv* | Algorithm |
 | 2025.02 | [Improving Existing Optimization Algorithms with LLMs](https://arxiv.org/pdf/2502.08298) || `MIS` | *arXiv* | Algorithm |
@@ -69,7 +69,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.04 | [CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization](https://arxiv.org/pdf/2504.04310) || `General COP` | *arXiv* | Benchmark |
 | 2025.04 | [Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning](https://arxiv.org/pdf/2504.05108) || `BP, TSP, FP` | *arXiv* | Algorithm |
 | 2025.04 | [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://arxiv.org/pdf/2504.16918) || `MILP` | *arXiv* | Formulation |
-
+| 2025.04 | [Fitness Landscape of Large Language Model-Assisted Automated Algorithm Search](https://arxiv.org/pdf/2504.19636) || `OBP, TSP, CVRP, VRPTW` | *arXiv* | Benchmark & Interpretability |
 ----
 
 ### Domain FMs for Combinatorial Optimization
