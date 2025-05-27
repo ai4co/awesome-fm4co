@@ -70,6 +70,8 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.04 | [Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning](https://arxiv.org/pdf/2504.05108) || `BP, TSP, FP` | *arXiv* | Algorithm |
 | 2025.04 | [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://arxiv.org/pdf/2504.16918) || `MILP` | *arXiv* | Formulation |
 | 2025.04 | [Fitness Landscape of Large Language Model-Assisted Automated Algorithm Search](https://arxiv.org/pdf/2504.19636) || `OBP, TSP, CVRP, VRPTW` | *arXiv* | Benchmark & Interpretability |
+| 2025.05 | [RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models](https://arxiv.org/abs/2505.20242) || `TSP,CVRP,KP,BPP,MKP` | *arXiv* | Algorithm |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
