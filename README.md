@@ -70,7 +70,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.04 | [Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning](https://arxiv.org/pdf/2504.05108) || `BP, TSP, FP` | *arXiv* | Algorithm |
 | 2025.04 | [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://arxiv.org/pdf/2504.16918) || `MILP` | *arXiv* | Formulation |
 | 2025.04 | [Fitness Landscape of Large Language Model-Assisted Automated Algorithm Search](https://arxiv.org/pdf/2504.19636) || `OBP, TSP, CVRP, VRPTW` | *arXiv* | Benchmark & Interpretability |
-| 2025.05 | [A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization](https://arxiv.org/pdf/2505.16952) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/CO-Bench/FrontierCO)| `MIS,MDS,TSP,CVRP,CFLP,CPMP,FJSP,STP` | *arXiv* | Benchmark |
+| 2025.05 | [A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization](https://arxiv.org/pdf/2505.16952) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/CO-Bench/FrontierCO)| `MIS,MDS,TSP,CVRP, CFLP,CPMP,FJSP,STP` | *arXiv* | Benchmark |
 | 2025.05 | [RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models](https://arxiv.org/pdf/2505.20242) || `TSP,CVRP,KP,BPP,MKP` | *arXiv* | Algorithm |
 
 ----
@@ -82,7 +82,7 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 |  Date   |                            Paper                             |                             Link                             |                 Problem                  |    Venue     |
 | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------: | :----------: |
 | 2022.08 | [One Model, Any CSP: Graph Neural Networks as Fast Global Search Heuristics for Constraint Satisfaction](https://arxiv.org/pdf/2208.10227) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/toenshoff/ANYCSP) | `CSP` | *IJCAI 2023* |
-| 2023.05 | [Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits](https://arxiv.org/pdf/2305.06361) |                      &emsp;&emsp;&emsp;                      |             `TSP,VRP,OP,KP`              |   *arXiv*    |
+| 2023.05 | [Efficient Training of Multi-task Combinatorial Neural Solver with Multi-armed Bandits](https://arxiv.org/pdf/2305.06361) |                      &emsp;&emsp;&emsp;                      |             `TSP,VRP,OP,KP`              |   *TMLR*    |
 | 2024.02 | [Multi-Task Learning for Routing Problem with Cross-Problem Zero-Shot Generalization](https://arxiv.org/pdf/2402.16891) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/FeiLiu36/MTNCO) |                 `16VRPs`                 |  *KDD 2024*  |
 | 2024.03 | [Towards a Generic Representation of Combinatorial Problems for Learning-Based Approaches](https://arxiv.org/pdf/2403.06026) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/corail-research/learning-generic-csp) |             `SAT,TSP,COL,KP`             |   *CPAIOR 2024*    |
 | 2024.04 | [Cross-Problem Learning for Solving Vehicle Routing Problems](https://arxiv.org/pdf/2404.11677) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Zhuoyi-Lin/Cross_problem_learning) |              `TSP,OP,PCTSP`              | *IJCAI 2024* |
@@ -94,9 +94,9 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 | 2024.10 | [Toward Learning Generalized Cross-Problem Solving Strategies for Combinatorial Optimization](https://openreview.net/forum?id=VnaJNW80pN) | |                  `TSP,VRP,SDVRP, OP,PCTSP,SPCTSP`                  |   *Under Review*   |
 | 2024.10 | [Learning General Representations Across Graph Combinatorial Optimization Problems](https://openreview.net/forum?id=elmTU101oS) | |                  `7GDPs`                  | *Under Review* |
 | 2024.10 | [Solving Diverse Combinatorial Optimization Problems with a Unified Model](https://openreview.net/forum?id=Kc3yoIL5oR) | |                  `(A)TSP,CVRP,OP,PCTSP, SPCTSP,KP,MIS,FFSP`                  | *Under Review* |
-| 2024.10 | [SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder](https://openreview.net/forum?id=AMbIvaD4Rr) | | `16VRPs` | *Under Review* |
+| 2024.10 | [SHIELD: Multi-task Multi-distribution Vehicle Routing Solver with Sparsity & Hierarchy in Efficiently Layered Decoder](https://openreview.net/forum?id=AMbIvaD4Rr) | | `16VRPs` | *ICML 2025* |
 | 2024.10 | [Unified Neural Solvers for General TSP and Multiple Combinatorial Optimization Tasks via Problem Reduction and Matrix Encoding](https://openreview.net/forum?id=yEwakMNIex) | | `(A)TSP,DHCP, 3SAT` | *ICLR 2025* |
 | 2024.10 | [Foundation Models for Boolean Logic](https://openreview.net/forum?id=qeY25DwmKO) | | `Boolean Logic` | *Under Review* |
-| 2024.11 | [CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention](https://arxiv.org/pdf/2412.00346) | | `16VRPs` | *arXiv* |
+| 2024.11 | [CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention](https://arxiv.org/pdf/2412.00346) | | `16VRPs` | *ICML 2025* |
 | 2024.12 | [Multi-task Representation Learning for Mixed Integer Linear Programming](https://arxiv.org/pdf/2412.14409) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/caidog1129/MILP_multitask) | `MILP` | *arXiv* |
 
