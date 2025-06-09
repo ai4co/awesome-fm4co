@@ -75,6 +75,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.05 | [RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models](https://arxiv.org/pdf/2505.20242) || `TSP,CVRP, KP,BPP,MKP` | *arXiv* | Algorithm |
 | 2025.05 | [Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization](https://arxiv.org/pdf/2505.20881) || `TSP,CVRP,BPP` | *arXiv* | Algorithm |
 | 2025.05 | [EALG: Evolutionary Adversarial Generation of Language Model–Guided Generators for Combinatorial Optimization](https://arxiv.org/pdf/2506.02594) || `TSP,OP` | *arXiv* | Algorithm |
+| 2025.05 | [CP-Bench: Evaluating Large Language Models for Constraint Modelling](https://arxiv.org/pdf/2506.06052) || `CP` | *arXiv* | Benchmark |
 
 ----
 
