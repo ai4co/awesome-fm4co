@@ -76,6 +76,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.05 | [Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization](https://arxiv.org/pdf/2505.20881) || `TSP,CVRP,BPP` | *arXiv* | Algorithm |
 | 2025.06 | [EALG: Evolutionary Adversarial Generation of Language Model–Guided Generators for Combinatorial Optimization](https://arxiv.org/pdf/2506.02594) || `TSP,OP` | *arXiv* | Algorithm |
 | 2025.06 | [CP-Bench: Evaluating Large Language Models for Constraint Modelling](https://arxiv.org/pdf/2506.06052) || `CP` | *arXiv* | Benchmark |
+| 2025.06 | [REMoH: A Reflective Evolution of Multi-objective Heuristics approach via Large Language Models](https://arxiv.org/pdf/2506.07759) || `FJSSP` | *arXiv* | Algorithm |
 | 2025.06 | [HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization](https://arxiv.org/pdf/2506.07972) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/cornell-zhang/heurigym)| `TSP,SAT` | *arXiv* | Benchmark |
 ----
 
