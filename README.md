@@ -78,6 +78,9 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.06 | [CP-Bench: Evaluating Large Language Models for Constraint Modelling](https://arxiv.org/pdf/2506.06052) || `CP` | *arXiv* | Benchmark |
 | 2025.06 | [REMoH: A Reflective Evolution of Multi-objective Heuristics approach via Large Language Models](https://arxiv.org/pdf/2506.07759) || `FJSSP` | *arXiv* | Algorithm |
 | 2025.06 | [HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization](https://arxiv.org/pdf/2506.07972) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/cornell-zhang/heurigym)| `TSP,SAT` | *arXiv* | Benchmark |
+| 2025.06 | [ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering](https://arxiv.org/pdf/2506.09050) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/SakanaAI/ALE-Bench)<br> [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/SakanaAI/ALE-Bench)| `General OPT` | *arXiv* | Benchmark |
+| 2025.06 | [OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems](https://arxiv.org/pdf/2506.10764) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/OPT-Bench/OPT-Bench)<br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://github.com/OliverLeeXZ/OPT-BENCH)| `GCP,KP,MCP,MIS,SCP,TSP` | *arXiv* | Benchmark |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
