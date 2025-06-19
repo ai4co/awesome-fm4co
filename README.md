@@ -38,7 +38,6 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.10 | [Towards Foundation Models for Mixed Integer Linear Programming](https://arxiv.org/pdf/2410.08288) |  |          `MILP`           |    *ICLR 2025*    | Formulation |
 | 2024.10 | [LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch](https://arxiv.org/pdf/2410.13213) | | `General OPT` | *ICLR 2025* | Formulation |
 | 2024.10 | [Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems](https://openreview.net/forum?id=Usk4KzBxLW) | | `MILP` | *Under Review* | Algorithm |
-| 2024.10 | [HeurAgenix: A Multi-Agent LLM-Based Paradigm for Adaptive Heuristic Evolution and Selection in Combinatorial Optimization](https://openreview.net/forum?id=xxSK3ZNAhh) | | `TSP,CVRP,JSSP, MaxCut,MKP` | *Under Review* | Algorithm |
 | 2024.10 | [Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models](https://openreview.net/forum?id=0fwJMANq9P) | | `TSP,CVRP, BPP,MKP` | *Under Review* | Algorithm |
 | 2024.10 | [OptiBench: Benchmarking Large Language Models in Optimization Modeling with Equivalence-Detection Evaluation](https://openreview.net/forum?id=KD9F5Ap878) | | `MILP` | *Under Review* | Benchmark |
 | 2024.10 | [OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling](https://openreview.net/forum?id=fsDZwS49uY) | | `MILP` | *ICLR 2025* | Benchmark |
@@ -81,7 +80,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.06 | [ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering](https://arxiv.org/pdf/2506.09050) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/SakanaAI/ALE-Bench)<br> [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/SakanaAI/ALE-Bench)| `General OPT` | *arXiv* | Benchmark |
 | 2025.06 | [OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems](https://arxiv.org/pdf/2506.10764) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/OPT-Bench/OPT-Bench)<br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://github.com/OliverLeeXZ/OPT-BENCH)| `GCP,KP,MCP,MIS,SCP,TSP` | *arXiv* | Benchmark |
 | 2025.06 | [STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization](https://arxiv.org/pdf/2506.11057) || `SAT` | *arXiv* | Solution |
-
+| 2025.06 | [HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges](https://arxiv.org/pdf/2506.15196) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/microsoft/HeurAgenix)| `TSP,CVRP,JSSP,MaxCut,MKP` | *arXiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
