@@ -37,7 +37,6 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.09 | [Multi-objective Evolution of Heuristic Using Large Language Model](https://arxiv.org/pdf/2409.16867) |  | `TSP,BPP` | *AAAI 2025* | Algorithm |
 | 2024.10 | [Towards Foundation Models for Mixed Integer Linear Programming](https://arxiv.org/pdf/2410.08288) |  |          `MILP`           |    *ICLR 2025*    | Formulation |
 | 2024.10 | [LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch](https://arxiv.org/pdf/2410.13213) | | `General OPT` | *ICLR 2025* | Formulation |
-| 2024.10 | [Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems](https://openreview.net/forum?id=Usk4KzBxLW) | | `MILP` | *Under Review* | Algorithm |
 | 2024.10 | [Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models](https://openreview.net/forum?id=0fwJMANq9P) | | `TSP,CVRP, BPP,MKP` | *Under Review* | Algorithm |
 | 2024.10 | [OptiBench: Benchmarking Large Language Models in Optimization Modeling with Equivalence-Detection Evaluation](https://openreview.net/forum?id=KD9F5Ap878) | | `MILP` | *Under Review* | Benchmark |
 | 2024.10 | [OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling](https://openreview.net/forum?id=fsDZwS49uY) | | `MILP` | *ICLR 2025* | Benchmark |
@@ -73,6 +72,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.05 | [A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization](https://arxiv.org/pdf/2505.16952) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/CO-Bench/FrontierCO)| `MIS,MDS, TSP,CVRP,CFLP, CPMP,FJSP,STP` | *arXiv* | Benchmark |
 | 2025.05 | [RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models](https://arxiv.org/pdf/2505.20242) || `TSP,CVRP, KP,BPP,MKP` | *arXiv* | Algorithm |
 | 2025.05 | [Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization](https://arxiv.org/pdf/2505.20881) || `TSP,CVRP,BPP` | *arXiv* | Algorithm |
+| 2025.05 | [Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems](https://openreview.net/pdf?id=teUg2pMrF0) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/thuiar/LLM-LNS)| `MILP` | *ICML 2025* | Algorithm |
 | 2025.06 | [EALG: Evolutionary Adversarial Generation of Language Model–Guided Generators for Combinatorial Optimization](https://arxiv.org/pdf/2506.02594) || `TSP,OP` | *arXiv* | Algorithm |
 | 2025.06 | [CP-Bench: Evaluating Large Language Models for Constraint Modelling](https://arxiv.org/pdf/2506.06052) || `CP` | *arXiv* | Benchmark |
 | 2025.06 | [REMoH: A Reflective Evolution of Multi-objective Heuristics approach via Large Language Models](https://arxiv.org/pdf/2506.07759) || `FJSSP` | *arXiv* | Algorithm |
@@ -81,6 +81,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.06 | [OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems](https://arxiv.org/pdf/2506.10764) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/OPT-Bench/OPT-Bench)<br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://github.com/OliverLeeXZ/OPT-BENCH)| `GCP,KP,MCP,MIS,SCP,TSP` | *arXiv* | Benchmark |
 | 2025.06 | [STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization](https://arxiv.org/pdf/2506.11057) || `SAT` | *arXiv* | Solution |
 | 2025.06 | [HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges](https://arxiv.org/pdf/2506.15196) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/microsoft/HeurAgenix)| `TSP,CVRP,JSSP,MaxCut,MKP` | *arXiv* | Algorithm |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
@@ -107,4 +108,4 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 | 2024.10 | [Foundation Models for Boolean Logic](https://openreview.net/forum?id=qeY25DwmKO) | | `Boolean Logic` | *Under Review* |
 | 2024.11 | [CaDA: Cross-Problem Routing Solver with Constraint-Aware Dual-Attention](https://arxiv.org/pdf/2412.00346) | | `16VRPs` | *ICML 2025* |
 | 2024.12 | [Multi-task Representation Learning for Mixed Integer Linear Programming](https://arxiv.org/pdf/2412.14409) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/caidog1129/MILP_multitask) | `MILP` | *arXiv* |
-
+| 2025.05 | [A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver](https://openreview.net/pdf?id=JsPyLqCgks) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/lsyysl9711/Mixed_Curvature_VRPs) | `VRP` | *ICML 2025* |
