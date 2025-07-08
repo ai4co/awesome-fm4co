@@ -84,6 +84,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.06 | [OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems](https://arxiv.org/pdf/2506.10764) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/OPT-Bench/OPT-Bench)<br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://github.com/OliverLeeXZ/OPT-BENCH)| `GCP,KP,MCP,MIS,SCP,TSP` | *arXiv* | Benchmark |
 | 2025.06 | [STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization](https://arxiv.org/pdf/2506.11057) || `SAT` | *arXiv* | Solution |
 | 2025.06 | [HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges](https://arxiv.org/pdf/2506.15196) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/microsoft/HeurAgenix)| `TSP,CVRP,JSSP,MaxCut,MKP` | *arXiv* | Algorithm |
+| 2025.07 | [Large Language Models for Combinatorial Optimization: A Systematic Review](https://arxiv.org/pdf/2507.03637) || `CO` | *arXiv* | Review |
 
 ----
 
