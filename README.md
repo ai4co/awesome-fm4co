@@ -86,6 +86,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.06 | [STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization](https://arxiv.org/pdf/2506.11057) || `SAT` | *arXiv* | Solution |
 | 2025.06 | [HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges](https://arxiv.org/pdf/2506.15196) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/microsoft/HeurAgenix)| `TSP,CVRP,JSSP, MaxCut,MKP` | *arXiv* | Algorithm |
 | 2025.07 | [Large Language Models for Combinatorial Optimization: A Systematic Review](https://arxiv.org/pdf/2507.03637) || `CO` | *arXiv* | Review |
+| 2025.07 | [DHEvo: Data-Algorithm Based Heuristic Evolution for Generalizable MILP Solving](https://arxiv.org/pdf/2507.15615) || `MILP` | *arXiv* | Algotithm |
 
 ----
 
