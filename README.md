@@ -86,8 +86,10 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.06 | [STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization](https://arxiv.org/pdf/2506.11057) || `SAT` | *arXiv* | Solution |
 | 2025.06 | [HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges](https://arxiv.org/pdf/2506.15196) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/microsoft/HeurAgenix)| `TSP,CVRP,JSSP, MaxCut,MKP` | *arXiv* | Algorithm |
 | 2025.07 | [Large Language Models for Combinatorial Optimization: A Systematic Review](https://arxiv.org/pdf/2507.03637) || `CO` | *arXiv* | Review |
-| 2025.07 | [DHEvo: Data-Algorithm Based Heuristic Evolution for Generalizable MILP Solving](https://arxiv.org/pdf/2507.15615) || `MILP` | *arXiv* | Algotithm |
-
+| 2025.07 | [DHEvo: Data-Algorithm Based Heuristic Evolution for Generalizable MILP Solving](https://arxiv.org/pdf/2507.15615) || `MILP` | *arXiv* | Algorithm |
+| 2025.07 | [MeLA: A Metacognitive LLM-Driven Architecture for Automatic Heuristic Design](https://arxiv.org/pdf/2507.20541) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Qzs1335/MeLA)| `TSP,BPP,ACS` | *arXiv* | Algorithm |
+| 2025.07 | [Pareto-Grid-Guided Large Language Models for Fast and High-Quality Heuristics Design in Multi-Objective Combinatorial Optimization](https://arxiv.org/pdf/2507.20923) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/langkhachhoha/MPaGE)| `TSP,CVRP,KP` | *arXiv* | Algorithm |
+| 2025.07 | [Automatically discovering heuristics in a complex SAT solver with large language models](https://arxiv.org/pdf/2507.22876) || `SAT` | *arXiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
