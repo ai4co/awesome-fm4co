@@ -90,6 +90,8 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.07 | [MeLA: A Metacognitive LLM-Driven Architecture for Automatic Heuristic Design](https://arxiv.org/pdf/2507.20541) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Qzs1335/MeLA)| `TSP,BPP,ACS` | *arXiv* | Algorithm |
 | 2025.07 | [Pareto-Grid-Guided Large Language Models for Fast and High-Quality Heuristics Design in Multi-Objective Combinatorial Optimization](https://arxiv.org/pdf/2507.20923) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/langkhachhoha/MPaGE)| `TSP,CVRP,KP` | *arXiv* | Algorithm |
 | 2025.07 | [Automatically discovering heuristics in a complex SAT solver with large language models](https://arxiv.org/pdf/2507.22876) || `SAT` | *arXiv* | Algorithm |
+| 2025.07 | [Nested-Refinement Metamorphosis: Reflective Evolution for Efficient Optimization of Networking Problems](https://aclanthology.org/2025.findings-acl.895.pdf) || `TSP,MKP,CVRP` | *ACL 2025* | Algorithm |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
