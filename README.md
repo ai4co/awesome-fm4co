@@ -37,7 +37,6 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.09 | [Multi-objective Evolution of Heuristic Using Large Language Model](https://arxiv.org/pdf/2409.16867) |  | `TSP,BPP` | *AAAI 2025* | Algorithm |
 | 2024.10 | [Towards Foundation Models for Mixed Integer Linear Programming](https://arxiv.org/pdf/2410.08288) |  |          `MILP`           |    *ICLR 2025*    | Formulation |
 | 2024.10 | [LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch](https://arxiv.org/pdf/2410.13213) | | `General OPT` | *ICLR 2025* | Formulation |
-| 2024.10 | [Efficient Heuristics Generation for Solving Combinatorial Optimization Problems Using Large Language Models](https://openreview.net/forum?id=0fwJMANq9P) | | `TSP,CVRP, BPP,MKP` | *Under Review* | Algorithm |
 | 2024.10 | [OptiBench: Benchmarking Large Language Models in Optimization Modeling with Equivalence-Detection Evaluation](https://openreview.net/forum?id=KD9F5Ap878) | | `MILP` | *Under Review* | Benchmark |
 | 2024.10 | [OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling](https://openreview.net/forum?id=fsDZwS49uY) | | `MILP` | *ICLR 2025* | Benchmark |
 | 2024.10 | [DRoC: Elevating Large Language Models for Complex Vehicle Routing via Decomposed Retrieval of Constraints](https://openreview.net/forum?id=s9zoyICZ4k) | | `48VRPs` | *ICLR 2025* | Formulation |
@@ -91,6 +90,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.07 | [Pareto-Grid-Guided Large Language Models for Fast and High-Quality Heuristics Design in Multi-Objective Combinatorial Optimization](https://arxiv.org/pdf/2507.20923) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/langkhachhoha/MPaGE)| `TSP,CVRP,KP` | *arXiv* | Algorithm |
 | 2025.07 | [Automatically discovering heuristics in a complex SAT solver with large language models](https://arxiv.org/pdf/2507.22876) || `SAT` | *arXiv* | Algorithm |
 | 2025.07 | [Nested-Refinement Metamorphosis: Reflective Evolution for Efficient Optimization of Networking Problems](https://aclanthology.org/2025.findings-acl.895.pdf) || `TSP,MKP,CVRP` | *ACL 2025* | Algorithm |
+| 2025.08 | [OptiHive: Ensemble Selection for LLM-Based Optimization via Statistical Modeling](https://arxiv.org/pdf/2508.02503) || `MDVRP,WSCP` | *arxiv* | Formulation |
 | 2025.08 | [EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design](https://arxiv.org/pdf/2508.03082) || `OBP,TSP,CVRP` | *arxiv* | Algorithm |
 
 ----
