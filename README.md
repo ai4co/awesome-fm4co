@@ -90,6 +90,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.07 | [Pareto-Grid-Guided Large Language Models for Fast and High-Quality Heuristics Design in Multi-Objective Combinatorial Optimization](https://arxiv.org/pdf/2507.20923) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/langkhachhoha/MPaGE)| `TSP,CVRP,KP` | *arXiv* | Algorithm |
 | 2025.07 | [Automatically discovering heuristics in a complex SAT solver with large language models](https://arxiv.org/pdf/2507.22876) || `SAT` | *arXiv* | Algorithm |
 | 2025.07 | [Nested-Refinement Metamorphosis: Reflective Evolution for Efficient Optimization of Networking Problems](https://aclanthology.org/2025.findings-acl.895.pdf) || `TSP,MKP,CVRP` | *ACL 2025* | Algorithm |
+| 2025.08 | [ReflecSched: Solving Dynamic Flexible Job-Shop Scheduling via LLM-Powered Hierarchical Reflection](https://arxiv.org/pdf/2508.01724) || `DFJSP` | *arxiv* | Solution |
 | 2025.08 | [OptiHive: Ensemble Selection for LLM-Based Optimization via Statistical Modeling](https://arxiv.org/pdf/2508.02503) || `MDVRP,WSCP` | *arxiv* | Formulation |
 | 2025.08 | [EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design](https://arxiv.org/pdf/2508.03082) || `OBP,TSP,CVRP` | *arxiv* | Algorithm |
 
