@@ -94,6 +94,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.08 | [OptiHive: Ensemble Selection for LLM-Based Optimization via Statistical Modeling](https://arxiv.org/pdf/2508.02503) || `MDVRP,WSCP` | *arxiv* | Formulation |
 | 2025.08 | [EoH-S: Evolution of Heuristic Set using LLMs for Automated Heuristic Design](https://arxiv.org/pdf/2508.03082) || `OBP,TSP,CVRP` | *arxiv* | Algorithm |
 | 2025.08 | [X-evolve: Solution space evolution powered by large language models](https://arxiv.org/pdf/2508.07932) || `CSP,BPP, Shannon capacity` | *arxiv* | Algorithm |
+| 2025.08 | [EvoCut: Strengthening Integer Programs via Evolution-Guided Language Models](https://arxiv.org/pdf/2508.11850) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/milad1378yz/EvoCut)| `MILP` | *arxiv* | Formulation |
 
 ----
 
