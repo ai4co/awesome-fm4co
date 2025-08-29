@@ -124,3 +124,4 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 | 2024.12 | [Multi-task Representation Learning for Mixed Integer Linear Programming](https://arxiv.org/pdf/2412.14409) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/caidog1129/MILP_multitask) | `MILP` | *arXiv* |
 | 2025.05 | [A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver](https://openreview.net/pdf?id=JsPyLqCgks) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/lsyysl9711/Mixed_Curvature_VRPs) | `VRP` | *ICML 2025* |
 | 2025.07 | [LRM-1B: Towards Large Routing Model](https://www.arxiv.org/pdf/2507.03300) || `VRP` | *arxiv* |
+| 2025.08 | [FORGE: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/pdf/2508.20330) || `MIP` | *arxiv* |
