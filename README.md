@@ -99,7 +99,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.09 | [LLM-QUBO: An End-to-End Framework for Automated QUBO Transformation from Natural Language Problem Descriptions](https://arxiv.org/pdf/2509.00099) || `MILP` | *arxiv* | Formulation |
 | 2025.09 | [AutoPBO: LLM-powered Optimization for Local Search PBO Solvers](https://arxiv.org/pdf/2509.04007) || `PBO` | *arxiv* | Solution |
 | 2025.09 | [Autonomous Code Evolution MeetsNP-Completeness](https://arxiv.org/pdf/2509.07367) || `SAT` | *arxiv* | Solution |
-
+| 2025.09 | [LLM-based Instance-driven Heuristic Bias in the Context of a Biased Random Key Genetic Algorithm ](https://arxiv.org/pdf/2509.09707) || `LRS` | *arxiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
