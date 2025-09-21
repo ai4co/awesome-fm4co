@@ -76,6 +76,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.05 | [RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models](https://arxiv.org/pdf/2505.20242) || `TSP,CVRP, KP,BPP,MKP` | *arXiv* | Algorithm |
 | 2025.05 | [Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization](https://arxiv.org/pdf/2505.20881) || `TSP,CVRP,BPP` | *arXiv* | Algorithm |
 | 2025.05 | [Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems](https://openreview.net/pdf?id=teUg2pMrF0) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/thuiar/LLM-LNS)| `MILP` | *ICML 2025* | Algorithm |
+| 2025.05 | [Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling](https://arxiv.org/pdf/2505.11792) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Cardinal-Operations/SIRL)| `General OPT` | *NeurIPS 2025* | Formulation |
 | 2025.06 | [EALG: Evolutionary Adversarial Generation of Language Model–Guided Generators for Combinatorial Optimization](https://arxiv.org/pdf/2506.02594) || `TSP,OP` | *arXiv* | Algorithm |
 | 2025.06 | [CP-Bench: Evaluating Large Language Models for Constraint Modelling](https://arxiv.org/pdf/2506.06052) || `CP` | *arXiv* | Benchmark |
 | 2025.06 | [REMoH: A Reflective Evolution of Multi-objective Heuristics approach via Large Language Models](https://arxiv.org/pdf/2506.07759) || `FJSSP` | *arXiv* | Algorithm |
