@@ -103,6 +103,8 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.09 | [LLM-based Instance-driven Heuristic Bias in the Context of a Biased Random Key Genetic Algorithm](https://arxiv.org/pdf/2509.09707) || `LRS` | *arxiv* | Algorithm |
 | 2025.09 | [Learn to Relax with Large Language Models: Solving Nonlinear Combinatorial Optimization Problems via Bidirectional Coevolution](https://arxiv.org/pdf/2509.12643) || `MDD,SFL,TSPTW` | *arxiv* | Algorithm |
 | 2025.09 | [DaSAThco: Data-Aware SAT Heuristics Combinations Optimization via Large Language Models](https://arxiv.org/pdf/2509.12602) || `SAT` | *arxiv* | Algorithm |
+| 2025.09 | [Large Language Models as End-to-end Combinatorial Optimization Solvers](https://arxiv.org/pdf/2509.16865) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Summer142857/LLMCoSolver)| `TSP,OP,CVRP, MIS,MVC,PFSP,JSSP` | *arxiv* | Solution |
+| 2025.09 | [Large Language Models and Operations Research: A Structured Survey](https://arxiv.org/pdf/2509.18180) || `OR` | *arxiv* | Review |
 ----
 
 ### Domain FMs for Combinatorial Optimization
