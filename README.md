@@ -103,8 +103,13 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.09 | [LLM-based Instance-driven Heuristic Bias in the Context of a Biased Random Key Genetic Algorithm](https://arxiv.org/pdf/2509.09707) || `LRS` | *arxiv* | Algorithm |
 | 2025.09 | [Learn to Relax with Large Language Models: Solving Nonlinear Combinatorial Optimization Problems via Bidirectional Coevolution](https://arxiv.org/pdf/2509.12643) || `MDD,SFL,TSPTW` | *arxiv* | Algorithm |
 | 2025.09 | [DaSAThco: Data-Aware SAT Heuristics Combinations Optimization via Large Language Models](https://arxiv.org/pdf/2509.12602) || `SAT` | *arxiv* | Algorithm |
-| 2025.09 | [Large Language Models as End-to-end Combinatorial Optimization Solvers](https://arxiv.org/pdf/2509.16865) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Summer142857/LLMCoSolver)| `TSP,OP,CVRP, MIS,MVC,PFSP,JSSP` | *arxiv* | Solution |
+| 2025.09 | [Large Language Models as End-to-end Combinatorial Optimization Solvers](https://arxiv.org/pdf/2509.16865) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Summer142857/LLMCoSolver)| `TSP,OP,CVRP, MIS,MVC,PFSP,JSSP` | *NeurIPS 2025* | Solution |
 | 2025.09 | [Large Language Models and Operations Research: A Structured Survey](https://arxiv.org/pdf/2509.18180) || `OR` | *arxiv* | Review |
+| 2025.09 | [StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models](https://arxiv.org/pdf/2509.22558) || `OR` | *arxiv* | Formulation |
+| 2025.09 | [AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms](https://arxiv.org/pdf/2509.23189) || `TSP,CVRP,FSSP` | *arxiv* | Algorithm |
+| 2025.09 | [ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems](https://arxiv.org/pdf/2509.23465) || `TSP` | *arxiv* | Algorithm |
+| 2025.09 | [Experience-guided reflective co-evolution of prompts and heuristics for automatic algorithm design](https://arxiv.org/pdf/2509.22558) || `TSP,BPP` | *arxiv* | Algorithm |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
