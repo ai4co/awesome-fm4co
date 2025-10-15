@@ -73,6 +73,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.05 | [CALM: Co-evolution of Algorithms and Language Model for Automatic Heuristic Design](https://arxiv.org/abs/2505.12285v1) || `TSP,KP,OBP,OP` | *arXiv* | ALgorithm |
 | 2025.05 | [Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design](https://arxiv.org/pdf/2505.16979) || `KP` | *arXiv* | Solution |
 | 2025.05 | [A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization](https://arxiv.org/pdf/2505.16952) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/CO-Bench/FrontierCO)| `MIS,MDS, TSP,CVRP,CFLP, CPMP,FJSP,STP` | *arXiv* | Benchmark |
+| 2025.05 | [LLM-Meta-SR: In-Context Learning for Evolving Selection Operators in Symbolic Regression](https://arxiv.org/abs/2505.18602) || `SR` | *arXiv* | Algorithm |
 | 2025.05 | [RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models](https://arxiv.org/pdf/2505.20242) || `TSP,CVRP, KP,BPP,MKP` | *arXiv* | Algorithm |
 | 2025.05 | [Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization](https://arxiv.org/pdf/2505.20881) || `TSP,CVRP,BPP` | *arXiv* | Algorithm |
 | 2025.05 | [Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems](https://openreview.net/pdf?id=teUg2pMrF0) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/thuiar/LLM-LNS)| `MILP` | *ICML 2025* | Algorithm |
