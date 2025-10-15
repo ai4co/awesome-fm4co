@@ -113,6 +113,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.09 | [Experience-guided reflective co-evolution of prompts and heuristics for automatic algorithm design](https://arxiv.org/pdf/2509.22558) || `TSP,BPP` | *arxiv* | Algorithm |
 | 2025.10 | [EvoSpeak: Large Language Models for Interpretable Genetic Programming-Evolved Heuristics](https://arxiv.org/pdf/2510.02686) || `DFJSS` | *arxiv* | Algorithm |
 | 2025.10 | [VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems](https://arxiv.org/pdf/2510.07073) || `VRP` | *arxiv* | Algorithm |
+| 2025.10 | [Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM](https://arxiv.org/abs/2510.11121) || `CVRP` | *arxiv* | Algorithm |
 
 ----
 
