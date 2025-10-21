@@ -113,9 +113,9 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.09 | [ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems](https://arxiv.org/pdf/2509.23465) || `TSP` | *arxiv* | Algorithm |
 | 2025.09 | [Experience-guided reflective co-evolution of prompts and heuristics for automatic algorithm design](https://arxiv.org/pdf/2509.24509) || `TSP,BPP` | *arxiv* | Algorithm |
 | 2025.10 | [EvoSpeak: Large Language Models for Interpretable Genetic Programming-Evolved Heuristics](https://arxiv.org/pdf/2510.02686) || `DFJSS` | *arxiv* | Algorithm |
-| 2025.10 | [VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems](https://arxiv.org/pdf/2510.07073) || `VRP` | *arxiv* | Algorithm |
-| 2025.10 | [Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM](https://arxiv.org/abs/2510.11121) || `CVRP` | *arxiv* | Algorithm |
-
+| 2025.10 | [VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems](https://arxiv.org/pdf/2510.07073) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ai4co/vrpagent)| `VRP` | *arxiv* | Algorithm |
+| 2025.10 | [Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM](https://arxiv.org/pdf/2510.11121) || `CVRP` | *arxiv* | Algorithm |
+| 2025.10 | [An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems](https://arxiv.org/pdf/2510.16701) || `VRP` | *arxiv* | Formulation |
 ----
 
 ### Domain FMs for Combinatorial Optimization
