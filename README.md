@@ -110,6 +110,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.09 | [Large Language Models and Operations Research: A Structured Survey](https://arxiv.org/pdf/2509.18180) || `OR` | *arxiv* | Review |
 | 2025.06 | [ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution](https://arxiv.org/pdf/2509.19349) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/SakanaAI/ShinkaEvolve)| `OPT` | *arXiv* | Algorithm |
 | 2025.09 | [StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models](https://arxiv.org/pdf/2509.22558) || `OR` | *arxiv* | Formulation |
+| 2025.09 | [OptiMind: Teaching LLMs to Think Like Optimization Experts](https://arxiv.org/pdf/2509.22979) || `MILP` | *arxiv* | Formulation |
 | 2025.09 | [AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms](https://arxiv.org/pdf/2509.23189) || `TSP,CVRP,FSSP` | *arxiv* | Algorithm |
 | 2025.09 | [ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems](https://arxiv.org/pdf/2509.23465) || `TSP` | *arxiv* | Algorithm |
 | 2025.09 | [Experience-guided reflective co-evolution of prompts and heuristics for automatic algorithm design](https://arxiv.org/pdf/2509.24509) || `TSP,BPP` | *arxiv* | Algorithm |
