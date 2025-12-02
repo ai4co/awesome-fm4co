@@ -110,7 +110,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.09 | [DaSAThco: Data-Aware SAT Heuristics Combinations Optimization via Large Language Models](https://arxiv.org/pdf/2509.12602) || `SAT` | *arxiv* | Algorithm |
 | 2025.09 | [Large Language Models as End-to-end Combinatorial Optimization Solvers](https://arxiv.org/pdf/2509.16865) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Summer142857/LLMCoSolver)| `TSP,OP,CVRP, MIS,MVC,PFSP,JSSP` | *NeurIPS 2025* | Solution |
 | 2025.09 | [Large Language Models and Operations Research: A Structured Survey](https://arxiv.org/pdf/2509.18180) || `OR` | *arxiv* | Review |
-| 2025.06 | [ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution](https://arxiv.org/pdf/2509.19349) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/SakanaAI/ShinkaEvolve)| `OPT` | *arXiv* | Algorithm |
+| 2025.09 | [ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution](https://arxiv.org/pdf/2509.19349) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/SakanaAI/ShinkaEvolve)| `OPT` | *arXiv* | Algorithm |
 | 2025.09 | [StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models](https://arxiv.org/pdf/2509.22558) || `OR` | *arxiv* | Formulation |
 | 2025.09 | [OptiMind: Teaching LLMs to Think Like Optimization Experts](https://arxiv.org/pdf/2509.22979) || `MILP` | *arxiv* | Formulation |
 | 2025.09 | [AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms](https://arxiv.org/pdf/2509.23189) || `TSP,CVRP,FSSP` | *arxiv* | Algorithm |
@@ -120,6 +120,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.10 | [VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems](https://arxiv.org/pdf/2510.07073) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ai4co/vrpagent)| `VRP` | *arxiv* | Algorithm |
 | 2025.10 | [Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM](https://arxiv.org/pdf/2510.11121) || `CVRP` | *arxiv* | Algorithm |
 | 2025.10 | [An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems](https://arxiv.org/pdf/2510.16701) || `VRP` | *arxiv* | Formulation |
+| 2025.10 | [OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling](https://arxiv.org/pdf/2510.22192) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/MIRALab-USTC/OptiTree)| `OR` | *NeurIPS 2025* | Formulation |
 | 2025.11 | [Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation](https://arxiv.org/pdf/2511.10233) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/HenryZhu1029/EvoReal)| `TSP,CVRP` | *AAAI 2026* | Algorithm |
 
 ----
