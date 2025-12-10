@@ -124,6 +124,9 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.11 | [Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation](https://arxiv.org/pdf/2511.10233) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/HenryZhu1029/EvoReal)| `TSP,CVRP` | *AAAI 2026* | Algorithm |
 | 2025.11 | [LLM4EO: Large Language Model for Evolutionary Optimization in Flexible Job Shop Scheduling](https://arxiv.org/pdf/2511.16485) || `FJSP` | *arxiv* | Algorithm |
 | 2025.12 | [RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design](https://arxiv.org/pdf/2512.03762) || `TSP,OP,CVRP, MKP,offline BPP` | *arxiv* | Algorithm |
+| 2025.12 | [CogMCTS: A Novel Cognitive-Guided Monte Carlo Tree Search Framework for Iterative Heuristic Evolution with Large Language Models](https://arxiv.org/pdf/2512.08609) || `TSP,OP,CVRP, MKP,KP` | *arxiv* | Algorithm |
+
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
