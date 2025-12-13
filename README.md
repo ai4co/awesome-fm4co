@@ -40,7 +40,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2024.10 | [OptiBench: Benchmarking Large Language Models in Optimization Modeling with Equivalence-Detection Evaluation](https://openreview.net/forum?id=KD9F5Ap878) | | `MILP` | *Under Review* | Benchmark |
 | 2024.10 | [OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling](https://openreview.net/forum?id=fsDZwS49uY) | | `MILP` | *ICLR 2025* | Benchmark |
 | 2024.10 | [DRoC: Elevating Large Language Models for Complex Vehicle Routing via Decomposed Retrieval of Constraints](https://openreview.net/forum?id=s9zoyICZ4k) | | `48VRPs` | *ICLR 2025* | Formulation |
-| 2024.10 | [STARJOB: Dataset for LLM-Driven Job Shop Scheduling](https://openreview.net/forum?id=z4Ho599uOL) | | `JSSP` | *Under Review* | Solution |
+| 2024.10 | [STARJOB: Dataset for LLM-Driven Job Shop Scheduling](https://openreview.net/forum?id=t0fU6t3Skw) | | `JSSP` | *Under Review* | Solution |
 | 2024.10 | [LLM4Solver: Large Language Model for Efficient Algorithm Design of Combinatorial Optimization Solver](https://openreview.net/forum?id=XTxdDEFR6D) | | `MILP` | *Under Review* | Algorithm |
 | 2024.10 | [Unifying All Species: LLM-based Hyper-Heuristics for Multi-objective Optimization](https://openreview.net/forum?id=sUywd7UhFT) | | `TSP` | *Under Review* | Algorithm |
 | 2024.10 | [Evo-Step: Evolutionary Generation and Stepwise Validation for Optimizing LLMs in OR](https://openreview.net/forum?id=aapUBU9U0D) | | `MILP` | *Under Review* | Formulation |
@@ -123,6 +123,15 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.10 | [OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling](https://arxiv.org/pdf/2510.22192) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/MIRALab-USTC/OptiTree)| `OR` | *NeurIPS 2025* | Formulation |
 | 2025.11 | [Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation](https://arxiv.org/pdf/2511.10233) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/HenryZhu1029/EvoReal)| `TSP,CVRP` | *AAAI 2026* | Algorithm |
 | 2025.11 | [LLM4EO: Large Language Model for Evolutionary Optimization in Flexible Job Shop Scheduling](https://arxiv.org/pdf/2511.16485) || `FJSP` | *arxiv* | Algorithm |
+| 2025.11 | [ACCORD: Autoregressive Constraint-satisfying Generation for COmbinatorial Optimization with Routing and Dynamic attention](https://openreview.net/pdf?id=f0TBAdcJ8m) || `FSSP,JSSP,BPP, KP,TSP,VRP` | *Under Review* | Solution & Benchmark |
+| 2025.11 | [AutoFloorplan: Evolving Heuristics for Chip Floorplanning with Large Language Models and Textual Gradient-Guided Repair](https://openreview.net/pdf?id=DS2iool3nv) || `Floorplanning` | *Under Review* | Algorithm |
+| 2025.11 | [TPD-AHD: Textual Preference Differentiation for LLM-Based Automatic Heuristic Design](https://openreview.net/pdf?id=VEMknlIPtM) || `TSP,CVRP,JSSP, MKP, VRP,MASP,CFLP` | *Under Review* |Algorithm  |
+| 2025.11 | [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://openreview.net/pdf?id=JtgZkVdAIP) || `OR` | *Under Review* |Solution  |
+| 2025.11 | [ALIGNING LLMS WITH GRAPH NEURAL SOLVERS FOR COMBINATORIAL OPTIMIZATION](https://openreview.net/pdf?id=KSfLDk3jxI) || `TSP,CVRP,KP, MVCP,MISP` | *Under Review* | Algorithm |
+| 2025.11 | [Large Language Model Guided Dynamic Branching Rule Scheduling in Branch-and-Bound](https://openreview.net/pdf?id=8LCdjf7uIk) || `MILP` | *Under Review* | Algorithm |
+| 2025.11 | [Online Algorithm Configuration for MILP Re-Optimization with LLM Guidance](https://openreview.net/pdf?id=xbyebbS1ZF) || `MILP` | *Under Review* | Algorithm |
+| 2025.11 | [Experience-Guided Reflective Co-Evolution of Prompts and Heuristics for Automatic Algorithm Design](https://openreview.net/pdf?id=oD9RwlFqEE) || `TSP, BPP` | *Under Review* | Algorithm |
+| 2025.11 | [Adversarial examples for heuristics in combinatorial optimization: An LLM based approach](https://openreview.net/pdf?id=fasU6t3hL4) || `KP,BPP,` | *Under Review* | Algorithm |
 | 2025.12 | [RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design](https://arxiv.org/pdf/2512.03762) || `TSP,OP,CVRP, MKP,offline BPP` | *arxiv* | Algorithm |
 | 2025.12 | [CogMCTS: A Novel Cognitive-Guided Monte Carlo Tree Search Framework for Iterative Heuristic Evolution with Large Language Models](https://arxiv.org/pdf/2512.08609) || `TSP,OP,CVRP, MKP,KP` | *arxiv* | Algorithm |
 
@@ -157,3 +166,4 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 | 2025.07 | [LRM-1B: Towards Large Routing Model](https://www.arxiv.org/pdf/2507.03300) || `VRP` | *arxiv* |
 | 2025.08 | [FORGE: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/pdf/2508.20330) || `MIP` | *arxiv* |
 | 2025.09 | [Graph Foundation Models: Bridging Language Model Paradigms and Graph Optimization](https://arxiv.org/abs/2509.24256) || `OR` | *arxiv* |
+| 2025.11 | [Foundation Models for Industrial Scheduling Leveraging the Techniques from LLMs](https://openreview.net/pdf?id=qRjLjYrvMi) || `FJSP` | *Under Review* |
