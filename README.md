@@ -126,12 +126,16 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.11 | [ACCORD: Autoregressive Constraint-satisfying Generation for COmbinatorial Optimization with Routing and Dynamic attention](https://openreview.net/pdf?id=f0TBAdcJ8m) || `FSSP,JSSP,BPP, KP,TSP,VRP` | *Under Review* | Solution & Benchmark |
 | 2025.11 | [AutoFloorplan: Evolving Heuristics for Chip Floorplanning with Large Language Models and Textual Gradient-Guided Repair](https://openreview.net/pdf?id=DS2iool3nv) || `Floorplanning` | *Under Review* | Algorithm |
 | 2025.11 | [TPD-AHD: Textual Preference Differentiation for LLM-Based Automatic Heuristic Design](https://openreview.net/pdf?id=VEMknlIPtM) || `TSP,CVRP,JSSP, MKP, VRP,MASP,CFLP` | *Under Review* |Algorithm  |
-| 2025.11 | [OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents](https://openreview.net/pdf?id=JtgZkVdAIP) || `OR` | *Under Review* |Solution  |
 | 2025.11 | [ALIGNING LLMS WITH GRAPH NEURAL SOLVERS FOR COMBINATORIAL OPTIMIZATION](https://openreview.net/pdf?id=KSfLDk3jxI) || `TSP,CVRP,KP, MVCP,MISP` | *Under Review* | Algorithm |
 | 2025.11 | [Large Language Model Guided Dynamic Branching Rule Scheduling in Branch-and-Bound](https://openreview.net/pdf?id=8LCdjf7uIk) || `MILP` | *Under Review* | Algorithm |
 | 2025.11 | [Online Algorithm Configuration for MILP Re-Optimization with LLM Guidance](https://openreview.net/pdf?id=xbyebbS1ZF) || `MILP` | *Under Review* | Algorithm |
 | 2025.11 | [Experience-Guided Reflective Co-Evolution of Prompts and Heuristics for Automatic Algorithm Design](https://openreview.net/pdf?id=oD9RwlFqEE) || `TSP, BPP` | *Under Review* | Algorithm |
-| 2025.11 | [Adversarial examples for heuristics in combinatorial optimization: An LLM based approach](https://openreview.net/pdf?id=fasU6t3hL4) || `KP,BPP,` | *Under Review* | Algorithm |
+| 2025.11 | [Adversarial examples for heuristics in combinatorial optimization: An LLM based approach](https://openreview.net/pdf?id=fasU6t3hL4) || `KP,BPP` | *Under Review* | Algorithm |
+| 2025.11 | [Rethinking Code Similarity for Automated Algorithm Design with LLMs](https://openreview.net/pdf?id=HIUqeO9OOr) || `ASP,TSP,CPP` | *Under Review* | Algorithm |
+| 2025.11 | [AutoMOAE: Multi-Objective Auto-Algorithm Evolution](https://openreview.net/pdf?id=G8tP1Z9dLy) || `GCP,TSP` | *Under Review* | Algorithm |
+| 2025.11 | [Fusing LLMs with Scientific Literature for Heuristic Discovery](https://openreview.net/pdf?id=lwqeXDYKWJ) || `TSP` | *Under Review* | Algorithm |
+| 2025.11 | [Cognitively Inspired Reflective Evolution: Interactive Multi-Turn LLM–EA Synthesis of Heuristics for Combinatorial Optimization](https://openreview.net/pdf?id=31VTD5pS2v) || `TSP,BPP` | *Under Review* | Algorithm |
+| 2025.11 | [Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs](https://openreview.net/pdf?id=dgvx86qybJ) || `TSP,CVRP,FSSP, BPP,ASP` | *Under Review* | Algorithm |
 | 2025.12 | [RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design](https://arxiv.org/pdf/2512.03762) || `TSP,OP,CVRP, MKP,offline BPP` | *arxiv* | Algorithm |
 | 2025.12 | [CogMCTS: A Novel Cognitive-Guided Monte Carlo Tree Search Framework for Iterative Heuristic Evolution with Large Language Models](https://arxiv.org/pdf/2512.08609) || `TSP,OP,CVRP, MKP,KP` | *arxiv* | Algorithm |
 
