@@ -138,7 +138,8 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.11 | [Hierarchical Representations for Cross-task Automated Heuristic Design using LLMs](https://openreview.net/pdf?id=dgvx86qybJ) || `TSP,CVRP,FSSP, BPP,ASP` | *Under Review* | Algorithm |
 | 2025.12 | [RoCo: Role-Based LLMs Collaboration for Automatic Heuristic Design](https://arxiv.org/pdf/2512.03762) || `TSP,OP,CVRP, MKP,offline BPP` | *arxiv* | Algorithm |
 | 2025.12 | [CogMCTS: A Novel Cognitive-Guided Monte Carlo Tree Search Framework for Iterative Heuristic Evolution with Large Language Models](https://arxiv.org/pdf/2512.08609) || `TSP,OP,CVRP, MKP,KP` | *arxiv* | Algorithm |
-
+| 2025.12 | [Behavior and Representation in Large Language Models for Combinatorial Optimization: From Feature Extraction to Algorithm Selection](https://arxiv.org/pdf/2512.13374) || `BP,GCP,JSP,KP` | *arxiv* | Analysis |
+| 2025.12 | [LAPPI: Interactive Optimization with LLM-Assisted Preference-Based Problem Instantiation](https://arxiv.org/pdf/2512.14138) || `TSP,OP` | *arxiv* | Formulation |
 
 ----
 
