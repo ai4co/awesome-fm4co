@@ -121,6 +121,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.10 | [Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM](https://arxiv.org/pdf/2510.11121) || `CVRP` | *arxiv* | Algorithm |
 | 2025.10 | [An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems](https://arxiv.org/pdf/2510.16701) || `VRP` | *arxiv* | Formulation |
 | 2025.10 | [OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling](https://arxiv.org/pdf/2510.22192) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/MIRALab-USTC/OptiTree)| `OR` | *NeurIPS 2025* | Formulation |
+| 2025.10 | [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://arxiv.org/abs/2510.27176) || `Systems routing + scheduling` | *arxiv* | Algorithm |
 | 2025.10 | [Discovering Heuristics with Large Language Models (LLMs) for Mixed-Integer Programs: Single-Machine Scheduling](https://arxiv.org/pdf/2510.24013) || `SMTT` | *arxiv* | Algorithm |
 | 2025.11 | [Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation](https://arxiv.org/pdf/2511.10233) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/HenryZhu1029/EvoReal)| `TSP,CVRP` | *AAAI 2026* | Algorithm |
 | 2025.11 | [LLM4EO: Large Language Model for Evolutionary Optimization in Flexible Job Shop Scheduling](https://arxiv.org/pdf/2511.16485) || `FJSP` | *arxiv* | Algorithm |
