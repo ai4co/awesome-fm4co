@@ -143,7 +143,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.12 | [CogMCTS: A Novel Cognitive-Guided Monte Carlo Tree Search Framework for Iterative Heuristic Evolution with Large Language Models](https://arxiv.org/pdf/2512.08609) || `TSP,OP,CVRP, MKP,KP` | *arxiv* | Algorithm |
 | 2025.12 | [Behavior and Representation in Large Language Models for Combinatorial Optimization: From Feature Extraction to Algorithm Selection](https://arxiv.org/pdf/2512.13374) || `BP,GCP,JSP,KP` | *arxiv* | Analysis |
 | 2025.12 | [LAPPI: Interactive Optimization with LLM-Assisted Preference-Based Problem Instantiation](https://arxiv.org/pdf/2512.14138) || `TSP,OP` | *arxiv* | Formulation |
-
+| 2026.01 | [DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization](https://arxiv.org/pdf/2601.06502) || `TSP,CVRP, BPP,MKP` | *arxiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
