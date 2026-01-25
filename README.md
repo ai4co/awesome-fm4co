@@ -88,6 +88,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.06 | [OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems](https://arxiv.org/pdf/2506.10764) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/OPT-Bench/OPT-Bench)<br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://github.com/OliverLeeXZ/OPT-BENCH)| `GCP,KP,MCP, MIS,SCP,TSP` | *arXiv* | Benchmark |
 | 2025.06 | [STRCMP: Integrating Graph Structural Priors with Language Models for Combinatorial Optimization](https://arxiv.org/pdf/2506.11057) || `SAT` | *NeurIPS 2025* | Solution |
 | 2025.06 | [AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://arxiv.org/pdf/2506.13131) |[![Code](https://img.shields.io/badge/Demo-74aa9c?style=for-the-badge)](https://colab.research.google.com/github/google-deepmind/alphaevolve_results/blob/master/mathematical_results.ipynb)| `OPT` | *arXiv* | Algorithm |
+| 2025.06 | [OpenEvolve: an open-source evolutionary coding agent](https://huggingface.co/blog/codelion/openevolve) |[![Code](https://img.shields.io/badge/Demo-74aa9c?style=for-the-badge)](https://github.com/algorithmicsuperintelligence/openevolve)| `OPT` | *GitHub* | Algorithm |
 | 2025.06 | [HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges](https://arxiv.org/pdf/2506.15196) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/microsoft/HeurAgenix)| `TSP,CVRP,JSSP, MaxCut,MKP` | *arXiv* | Algorithm |
 | 2025.07 | [Large Language Models for Combinatorial Optimization: A Systematic Review](https://arxiv.org/pdf/2507.03637) || `CO` | *arXiv* | Review |
 | 2025.07 | [Fine-tuning Large Language Model for Automated Algorithm Design](https://arxiv.org/pdf/2507.10614) || `ASP,TSP,CVRP` | *arXiv* | Algorithm |
@@ -119,6 +120,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.10 | [EvoSpeak: Large Language Models for Interpretable Genetic Programming-Evolved Heuristics](https://arxiv.org/pdf/2510.02686) || `DFJSS` | *arxiv* | Algorithm |
 | 2025.10 | [VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems](https://arxiv.org/pdf/2510.07073) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ai4co/vrpagent)| `VRP` | *arxiv* | Algorithm |
 | 2025.10 | [Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM](https://arxiv.org/pdf/2510.11121) || `CVRP` | *arxiv* | Algorithm |
+| 2025.10 | [CodeEvolve: an open source evolutionary coding agent for algorithm discovery and optimization](https://arxiv.org/pdf/2510.14150) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/inter-co/science-codeevolve)| `OPT` | *arXiv* | Algorithm |
 | 2025.10 | [An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems](https://arxiv.org/pdf/2510.16701) || `VRP` | *arxiv* | Formulation |
 | 2025.10 | [OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling](https://arxiv.org/pdf/2510.22192) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/MIRALab-USTC/OptiTree)| `OR` | *NeurIPS 2025* | Formulation |
 | 2025.10 | [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://arxiv.org/abs/2510.27176) || `Systems routing + scheduling` | *arxiv* | Algorithm |
@@ -146,6 +148,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.12 | [Behavior and Representation in Large Language Models for Combinatorial Optimization: From Feature Extraction to Algorithm Selection](https://arxiv.org/pdf/2512.13374) || `BP,GCP,JSP,KP` | *arxiv* | Analysis |
 | 2025.12 | [LAPPI: Interactive Optimization with LLM-Assisted Preference-Based Problem Instantiation](https://arxiv.org/pdf/2512.14138) || `TSP,OP` | *arxiv* | Formulation |
 | 2026.01 | [DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization](https://arxiv.org/pdf/2601.06502) || `TSP,CVRP, BPP,MKP` | *arxiv* | Algorithm |
+| 2026.01 | [LLM-Assisted Automatic Dispatching Rule Design for Dynamic Flexible Assembly Flow Shop Scheduling](https://arxiv.org/pdf/2601.15738) || `Dynamic FAFSP` | *arxiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
