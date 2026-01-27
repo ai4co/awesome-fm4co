@@ -149,6 +149,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.12 | [LAPPI: Interactive Optimization with LLM-Assisted Preference-Based Problem Instantiation](https://arxiv.org/pdf/2512.14138) || `TSP,OP` | *arxiv* | Formulation |
 | 2026.01 | [DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization](https://arxiv.org/pdf/2601.06502) || `TSP,CVRP, BPP,MKP` | *arxiv* | Algorithm |
 | 2026.01 | [LLM-Assisted Automatic Dispatching Rule Design for Dynamic Flexible Assembly Flow Shop Scheduling](https://arxiv.org/pdf/2601.15738) || `Dynamic FAFSP` | *arxiv* | Algorithm |
+| 2026.01 | [Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization](https://arxiv.org/pdf/2601.17899) || `MOCP` | *arxiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
