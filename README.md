@@ -154,6 +154,9 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.01 | [PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) || `TSP,KP,CVRP, MKP,OP,BPP` | *arxiv* | Algorithm |
 | 2026.01 | [LLaMEA-SAGE: Guiding Automated Algorithm Design with Structural Feedback from Explainable AI](https://arxiv.org/pdf/2601.21511) || `BBO` | *arxiv* | Algorithm |
 | 2026.01 | [Game-Theoretic Co-Evolution for LLM-Based Heuristic Discovery](https://arxiv.org/pdf/2601.22896) || `OBP,TSP,CVRP` | *arxiv* | Algorithm |
+| 2026.01 | [Beyond the Node: Clade-level Selection for Efficient MCTS in Automatic Heuristic Design](https://arxiv.org/pdf/2602.00549) || `TSP,KP,CVRP, MKP,BPP` | *arxiv* | Algorithm |
+| 2026.02 | [Hard Constraints Meet Soft Generation: Guaranteed Feasibility for LLM-based Combinatorial Optimization](https://arxiv.org/pdf/2602.01090) || `TSP,OP,CVRP,MIS, MVC,PFSP,JSSP` | *arxiv* | Solution |
+| 2026.02 | [Reasoning in a Combinatorial and Constrained World: Benchmarking LLMs on Natural-Language Combinatorial Optimization](https://arxiv.org/pdf/2602.02188) || `COP` | *arxiv* | Benchmark |
 ----
 
 ### Domain FMs for Combinatorial Optimization
