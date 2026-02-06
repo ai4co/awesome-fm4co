@@ -150,6 +150,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.01 | [DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization](https://arxiv.org/pdf/2601.06502) || `TSP,CVRP, BPP,MKP` | *arxiv* | Algorithm |
 | 2026.01 | [LLM-Assisted Automatic Dispatching Rule Design for Dynamic Flexible Assembly Flow Shop Scheduling](https://arxiv.org/pdf/2601.15738) || `Dynamic FAFSP` | *arxiv* | Algorithm |
 | 2026.01 | [Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization](https://arxiv.org/pdf/2601.17899) || `MOCP` | *arxiv* | Algorithm |
+| 2026.01 | [Algorithmic Prompt-Augmentation for Efficient LLM-Based Heuristic Design for A* Search](https://arxiv.org/pdf/2601.19622) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/tb-git-tud/a-ceoh-evolution-of-heuristics)| `SP,ULPMP` | *arxiv* | Algorithm |
 | 2026.01 | [Rethinking LLM-Driven Heuristic Design: Generating Efficient and Specialized Solvers via Dynamics-Aware Optimization](https://arxiv.org/pdf/2601.20868) || `TSP,CVRP, BPP,MKP` | *arxiv* | Algorithm |
 | 2026.01 | [PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs](https://arxiv.org/pdf/2601.20539) || `TSP,KP,CVRP, MKP,OP,BPP` | *arxiv* | Algorithm |
 | 2026.01 | [LLaMEA-SAGE: Guiding Automated Algorithm Design with Structural Feedback from Explainable AI](https://arxiv.org/pdf/2601.21511) || `BBO` | *arxiv* | Algorithm |
