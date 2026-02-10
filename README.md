@@ -158,6 +158,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.01 | [Beyond the Node: Clade-level Selection for Efficient MCTS in Automatic Heuristic Design](https://arxiv.org/pdf/2602.00549) || `TSP,KP,CVRP, MKP,BPP` | *arxiv* | Algorithm |
 | 2026.02 | [Hard Constraints Meet Soft Generation: Guaranteed Feasibility for LLM-based Combinatorial Optimization](https://arxiv.org/pdf/2602.01090) || `TSP,OP,CVRP,MIS, MVC,PFSP,JSSP` | *arxiv* | Solution |
 | 2026.02 | [Reasoning in a Combinatorial and Constrained World: Benchmarking LLMs on Natural-Language Combinatorial Optimization](https://arxiv.org/pdf/2602.02188) || `COP` | *arxiv* | Benchmark |
+| 2026.02 | [G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design](https://arxiv.org/pdf/2602.08253) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/zboyn/G-LNS)| `TSP,CVRP,OVRP` | *arxiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
