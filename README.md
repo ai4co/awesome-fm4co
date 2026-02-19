@@ -159,6 +159,8 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.02 | [Hard Constraints Meet Soft Generation: Guaranteed Feasibility for LLM-based Combinatorial Optimization](https://arxiv.org/pdf/2602.01090) || `TSP,OP,CVRP,MIS, MVC,PFSP,JSSP` | *arxiv* | Solution |
 | 2026.02 | [Reasoning in a Combinatorial and Constrained World: Benchmarking LLMs on Natural-Language Combinatorial Optimization](https://arxiv.org/pdf/2602.02188) || `COP` | *arxiv* | Benchmark |
 | 2026.02 | [G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design](https://arxiv.org/pdf/2602.08253) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/zboyn/G-LNS)| `TSP,CVRP,OVRP` | *arxiv* | Algorithm |
+| 2026.02 | [OR-Agent: Bridging Evolutionary Search and Structured Research for Automated Algorithm Discovery](https://arxiv.org/pdf/2602.13869) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/qiliuchn/OR-Agent)| `OR` | *arxiv* | Solution |
+| 2026.02 | [Heuristic Search as Language-Guided Program Optimization](https://arxiv.org/pdf/2602.16038) || `PDPTW,crew pairing, TMP,Intra-op scheduling` | *arxiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
