@@ -162,9 +162,11 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.02 | [G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design](https://arxiv.org/pdf/2602.08253) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/zboyn/G-LNS)| `TSP,CVRP,OVRP` | *arxiv* | Algorithm |
 | 2026.02 | [OR-Agent: Bridging Evolutionary Search and Structured Research for Automated Algorithm Discovery](https://arxiv.org/pdf/2602.13869) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/qiliuchn/OR-Agent)| `OR` | *arxiv* | Solution |
 | 2026.02 | [Heuristic Search as Language-Guided Program Optimization](https://arxiv.org/pdf/2602.16038) || `PDPTW,crew pairing, TMP,Intra-op scheduling` | *arxiv* | Algorithm |
-| 2026.02 | [AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization](https://arxiv.org/pdf/2602.20133) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/skydiscover-ai/skydiscover.git)| `CirclePacking` | *arxiv* | Algorithm |
+| 2026.02 | [AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization](https://arxiv.org/pdf/2602.20133) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/skydiscover-ai/skydiscover)| `CirclePacking` | *arxiv* | Algorithm |
 | 2026.02 | [ConstraintBench: Benchmarking LLM Constraint Reasoning on Direct Optimization](https://arxiv.org/pdf/2602.22465) || `Optimization` | *arxiv* | Benchmark |
 | 2026.02 | [Enhancing CVRP Solver through LLM-driven Automatic Heuristic Design](https://arxiv.org/pdf/2602.23092) || `CVRP` | *arxiv* | Algorithm |
+| 2026.02 | [EvoX: Meta-Evolution for Automated Discovery](https://arxiv.org/pdf/2602.23413) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/skydiscover-ai/skydiscover)| `CirclePacking` | *arxiv* | Algorithm |
+| 2026.03 | [From Heuristic Selection to Automated Algorithm Design: LLMs Benefit from Strong Priors](https://arxiv.org/pdf/2603.02792) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/BaronH07/BAG)| `OneMax` | *arxiv* | Method |
 ----
 
 ### Domain FMs for Combinatorial Optimization
