@@ -167,6 +167,10 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.02 | [Enhancing CVRP Solver through LLM-driven Automatic Heuristic Design](https://arxiv.org/pdf/2602.23092) || `CVRP` | *arxiv* | Algorithm |
 | 2026.02 | [EvoX: Meta-Evolution for Automated Discovery](https://arxiv.org/pdf/2602.23413) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/skydiscover-ai/skydiscover)| `CirclePacking` | *arxiv* | Algorithm |
 | 2026.03 | [From Heuristic Selection to Automated Algorithm Design: LLMs Benefit from Strong Priors](https://arxiv.org/pdf/2603.02792) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/BaronH07/BAG)| `OneMax` | *arxiv* | Method |
+| 2026.03 | [DyACE: Dynamic Algorithm Co-evolution for Online Automated Heuristic Design with Large Language Model](https://arxiv.org/pdf/2603.13344) | | `JSSP,TSP,CVRP` | *arXiv* | Algorithm |
+| 2026.03 | [CDEoH: Category-Driven Automatic Algorithm Design With Large Language Models](https://arxiv.org/pdf/2603.19284) | | `OBP,TSP` | *arXiv* | Algorithm |
+| 2026.03 | [AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/pdf/2603.24517) | | `Kernel Optimization` | *arXiv* | Algorithm |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
