@@ -132,7 +132,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.11 | [ACCORD: Autoregressive Constraint-satisfying Generation for COmbinatorial Optimization with Routing and Dynamic attention](https://openreview.net/pdf?id=f0TBAdcJ8m) || `FSSP,JSSP,BPP, KP,TSP,VRP` | *Under Review* | Solution & Benchmark |
 | 2025.11 | [AutoFloorplan: Evolving Heuristics for Chip Floorplanning with Large Language Models and Textual Gradient-Guided Repair](https://openreview.net/pdf?id=DS2iool3nv) || `Floorplanning` | *Under Review* | Algorithm |
 | 2025.11 | [TPD-AHD: Textual Preference Differentiation for LLM-Based Automatic Heuristic Design](https://openreview.net/pdf?id=VEMknlIPtM) || `TSP,CVRP,JSSP, MKP, VRP,MASP,CFLP` | *Under Review* |Algorithm  |
-| 2025.11 | [ALIGNING LLMS WITH GRAPH NEURAL SOLVERS FOR COMBINATORIAL OPTIMIZATION](https://openreview.net/pdf?id=KSfLDk3jxI) || `TSP,CVRP,KP, MVCP,MISP` | *Under Review* | Algorithm |
+| 2025.11 | [Aligning LLMs with Graph Neural Solvers for Combinatorial Optimization](https://openreview.net/pdf?id=KSfLDk3jxI) || `TSP,CVRP,KP, MVCP,MISP` | *Under Review* | Algorithm |
 | 2025.11 | [Large Language Model Guided Dynamic Branching Rule Scheduling in Branch-and-Bound](https://openreview.net/pdf?id=8LCdjf7uIk) || `MILP` | *Under Review* | Algorithm |
 | 2025.11 | [Online Algorithm Configuration for MILP Re-Optimization with LLM Guidance](https://openreview.net/pdf?id=xbyebbS1ZF) || `MILP` | *Under Review* | Algorithm |
 | 2025.11 | [Experience-Guided Reflective Co-Evolution of Prompts and Heuristics for Automatic Algorithm Design](https://openreview.net/pdf?id=oD9RwlFqEE) || `TSP, BPP` | *Under Review* | Algorithm |
@@ -170,7 +170,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.03 | [DyACE: Dynamic Algorithm Co-evolution for Online Automated Heuristic Design with Large Language Model](https://arxiv.org/pdf/2603.13344) | | `JSSP,TSP,CVRP` | *arXiv* | Algorithm |
 | 2026.03 | [CDEoH: Category-Driven Automatic Algorithm Design With Large Language Models](https://arxiv.org/pdf/2603.19284) | | `OBP,TSP` | *arXiv* | Algorithm |
 | 2026.03 | [AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/pdf/2603.24517) | | `Kernel Optimization` | *arXiv* | Algorithm |
-
+| 2026.03 | [DSevolve: Enabling Real-Time Adaptive Scheduling on Dynamic Shop Floor with LLM-Evolved Heuristic Portfolios](https://arxiv.org/pdf/2603.27628) | | `DFJSP` | *arXiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
