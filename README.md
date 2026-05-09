@@ -171,6 +171,8 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.03 | [CDEoH: Category-Driven Automatic Algorithm Design With Large Language Models](https://arxiv.org/pdf/2603.19284) | | `OBP,TSP` | *arXiv* | Algorithm |
 | 2026.03 | [AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/pdf/2603.24517) | | `Kernel Optimization` | *arXiv* | Algorithm |
 | 2026.03 | [DSevolve: Enabling Real-Time Adaptive Scheduling on Dynamic Shop Floor with LLM-Evolved Heuristic Portfolios](https://arxiv.org/pdf/2603.27628) | | `DFJSP` | *arXiv* | Algorithm |
+| 2026.05 | [Back to the Beginning of Heuristic Design: Bridging Code and Knowledge with LLMs](https://arxiv.org/pdf/2605.06123) | | `CO,SCO,SR,PE` | *arXiv* | Algorithm |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
