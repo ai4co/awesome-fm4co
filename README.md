@@ -171,6 +171,20 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.03 | [CDEoH: Category-Driven Automatic Algorithm Design With Large Language Models](https://arxiv.org/pdf/2603.19284) | | `OBP,TSP` | *arXiv* | Algorithm |
 | 2026.03 | [AVO: Agentic Variation Operators for Autonomous Evolutionary Search](https://arxiv.org/pdf/2603.24517) | | `Kernel Optimization` | *arXiv* | Algorithm |
 | 2026.03 | [DSevolve: Enabling Real-Time Adaptive Scheduling on Dynamic Shop Floor with LLM-Evolved Heuristic Portfolios](https://arxiv.org/pdf/2603.27628) | | `DFJSP` | *arXiv* | Algorithm |
+| 2026.04 | [Infeasibility Aware Large Language Models for Combinatorial Optimization](https://arxiv.org/pdf/2604.01455) | | `Minor-embedding, k-coloring` | *arXiv* | Solution |
+| 2026.04 | [NED-Tree: Bridging the Semantic Gap with Nonlinear Element Decomposition Tree for LLM Nonlinear Optimization Modeling](https://arxiv.org/pdf/2604.01588) | | `OR` | *arXiv* | Formulation |
+| 2026.04 | [ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback](https://arxiv.org/pdf/2604.04940) | | `BPP,TSP,CVRP` | *arXiv* | Algorithm |
+| 2026.04 | [PyVRP^+: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems](https://arxiv.org/pdf/2604.07872) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ra-MANUJ-an/pyvrp-code) | `VRP` | *arXiv* | Algorithm |
+| 2026.04 | [BEAM: Bi-level Memory-adaptive Algorithmic Evolution for LLM-Powered Heuristic Design](https://arxiv.org/pdf/2604.12898) | | `TSP,CVRP, BPP,MIS` | *arXiv* | Algorithm |
+| 2026.04 | [AutoOR: Scalably Post-training LLMs to Autoformalize Operations Research Problems](https://arxiv.org/pdf/2604.16804) | | `` | *arXiv* | Formulation |
+| 2026.04 | [Co-evolving Agent Architectures and Interpretable Reasoning for Automated Optimization](https://arxiv.org/pdf/2604.17708) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/EvoNexusX/2026HuangEvoORAgent)| `OR` | *arXiv* | Formulation |
+| 2026.04 | [GR-Evolve: Design-Adaptive Global Routing via LLM-Driven Algorithm Evolution](https://arxiv.org/pdf/2604.22234) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ASU-VDA-Lab/GR-Evolve) | `EDA` | *arXiv* | Algorithm |
+| 2026.04 | [A2DEPT: Large Language Model–Driven Automated Algorithm Design via Evolutionary Program Trees](https://arxiv.org/pdf/2604.24043) | | `MIS,CVRP, CFLP,FJSP` | *arXiv* | Algorithm |
+| 2026.04 | [AutoQResearch: LLM-Guided Closed-Loop Policy Search for Adaptive Variational Quantum Optimization](https://arxiv.org/pdf/2604.24283) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/SMU-Quantum/autoqresearch/tree/main) | `MIS,CVRP` | *arXiv* | Algorithm |
+| 2026.04 | [Design Structure Matrix Modularization with Large Language Models](https://arxiv.org/pdf/2604.28018) | | `DSM modularization` | *arXiv* | Solution |
+| 2026.05 | [Back to the Beginning of Heuristic Design: Bridging Code and Knowledge with LLMs](https://arxiv.org/pdf/2605.06123) | | `TSP,CVRP,JSSP,OP,QAP` | *arXiv* | Algorithm |
+| 2026.05 | [CoupleEvo: Evolving Heuristics for Coupled Optimization Problems Using Large Language Models](https://arxiv.org/pdf/2605.06341) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/tb-git-kit-research/CoupleEvo)| `IRP,MRMUPMP` | *arXiv* | Algorithm |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
