@@ -75,7 +75,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.05 | [A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization](https://arxiv.org/pdf/2505.16952) | [![Data](https://img.shields.io/badge/Data-20B2AA?style=for-the-badge)](https://huggingface.co/datasets/CO-Bench/FrontierCO)| `MIS,MDS, TSP,CVRP,CFLP, CPMP,FJSP,STP` | *ICML 2025 Workshop AI4Math* | Benchmark |
 | 2025.05 | [LLM-Meta-SR: In-Context Learning for Evolving Selection Operators in Symbolic Regression](https://arxiv.org/abs/2505.18602) || `SR` | *arXiv* | Algorithm |
 | 2025.05 | [RedAHD: Reduction-Based End-to-End Automatic Heuristic Design with Large Language Models](https://arxiv.org/pdf/2505.20242) || `TSP,CVRP, KP,BPP,MKP` | *arXiv* | Algorithm |
-| 2025.05 | [Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization](https://arxiv.org/pdf/2505.20881) || `TSP,CVRP,BPP` | *arXiv* | Algorithm |
+| 2025.05 | [Generalizable Heuristic Generation Through Large Language Models with Meta-Optimization](https://arxiv.org/pdf/2505.20881) || `TSP,CVRP,BPP` | *ICLR 2026* | Algorithm |
 | 2025.05 | [Large Language Model-driven Large Neighborhood Search for Large-Scale MILP Problems](https://openreview.net/pdf?id=teUg2pMrF0) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/thuiar/LLM-LNS)| `MILP` | *ICML 2025* | Algorithm |
 | 2025.05 | [Solver-Informed RL: Grounding Large Language Models for Authentic Optimization Modeling](https://arxiv.org/pdf/2505.11792) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Cardinal-Operations/SIRL)| `General OPT` | *NeurIPS 2025* | Formulation |
 | 2025.06 | [LLM-Driven Instance-Specific Heuristic Generation and Selection](https://arxiv.org/pdf/2506.00490) || `OBPP,CVRP` | *arXiv* | Algorithm |
@@ -113,16 +113,16 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.09 | [Large Language Models as End-to-end Combinatorial Optimization Solvers](https://arxiv.org/pdf/2509.16865) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Summer142857/LLMCoSolver)| `TSP,OP,CVRP, MIS,MVC,PFSP,JSSP` | *NeurIPS 2025* | Solution |
 | 2025.09 | [Large Language Models and Operations Research: A Structured Survey](https://arxiv.org/pdf/2509.18180) || `OR` | *arxiv* | Review |
 | 2025.09 | [ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution](https://arxiv.org/pdf/2509.19349) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/SakanaAI/ShinkaEvolve)| `OPT` | *ICLR 2026* | Algorithm |
-| 2025.09 | [StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models](https://arxiv.org/pdf/2509.22558) || `OR` | *arxiv* | Formulation |
+| 2025.09 | [StepORLM: A Self-Evolving Framework With Generative Process Supervision For Operations Research Language Models](https://arxiv.org/pdf/2509.22558) || `OR` | *ICLR 2026* | Formulation |
 | 2025.09 | [OptiMind: Teaching LLMs to Think Like Optimization Experts](https://arxiv.org/pdf/2509.22979) || `MILP` | *arxiv* | Formulation |
 | 2025.09 | [AutoEP: LLMs-Driven Automation of Hyperparameter Evolution for Metaheuristic Algorithms](https://arxiv.org/pdf/2509.23189) || `TSP,CVRP,FSSP` | *ICLR 2026* | Algorithm |
-| 2025.09 | [ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems](https://arxiv.org/pdf/2509.23465) || `TSP` | *arxiv* | Algorithm |
+| 2025.09 | [ViTSP: A Vision Language Models Guided Framework for Large-Scale Traveling Salesman Problems](https://arxiv.org/pdf/2509.23465) || `TSP` |  *ICLR 2026* | Algorithm |
 | 2025.09 | [Experience-guided reflective co-evolution of prompts and heuristics for automatic algorithm design](https://arxiv.org/pdf/2509.24509) || `TSP,BPP` | *arxiv* | Algorithm |
 | 2025.10 | [EvoSpeak: Large Language Models for Interpretable Genetic Programming-Evolved Heuristics](https://arxiv.org/pdf/2510.02686) || `DFJSS` | *arxiv* | Algorithm |
 | 2025.10 | [VRPAgent: LLM-Driven Discovery of Heuristic Operators for Vehicle Routing Problems](https://arxiv.org/pdf/2510.07073) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ai4co/vrpagent)| `VRP` | *arxiv* | Algorithm |
 | 2025.10 | [Refining Hybrid Genetic Search for CVRP via Reinforcement Learning-Finetuned LLM](https://arxiv.org/pdf/2510.11121) || `CVRP` | *arxiv* | Algorithm |
 | 2025.10 | [CodeEvolve: an open source evolutionary coding agent for algorithm discovery and optimization](https://arxiv.org/pdf/2510.14150) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/inter-co/science-codeevolve)| `OPT` | *arXiv* | Algorithm |
-| 2025.10 | [An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems](https://arxiv.org/pdf/2510.16701) || `VRP` | *arxiv* | Formulation |
+| 2025.10 | [An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems](https://arxiv.org/pdf/2510.16701) || `VRP` |  *ICLR 2026* | Formulation |
 | 2025.10 | [OptiTree: Hierarchical Thoughts Generation with Tree Search for LLM Optimization Modeling](https://arxiv.org/pdf/2510.22192) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/MIRALab-USTC/OptiTree)| `OR` | *NeurIPS 2025* | Formulation |
 | 2025.10 | [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://arxiv.org/abs/2510.27176) || `Systems routing + scheduling` | *arxiv* | Algorithm |
 | 2025.10 | [Discovering Heuristics with Large Language Models (LLMs) for Mixed-Integer Programs: Single-Machine Scheduling](https://arxiv.org/pdf/2510.24013) || `SMTT` | *arxiv* | Algorithm |
@@ -148,7 +148,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2025.12 | [CogMCTS: A Novel Cognitive-Guided Monte Carlo Tree Search Framework for Iterative Heuristic Evolution with Large Language Models](https://arxiv.org/pdf/2512.08609) || `TSP,OP,CVRP, MKP,KP` | *arxiv* | Algorithm |
 | 2025.12 | [Behavior and Representation in Large Language Models for Combinatorial Optimization: From Feature Extraction to Algorithm Selection](https://arxiv.org/pdf/2512.13374) || `BP,GCP,JSP,KP` | *arxiv* | Analysis |
 | 2025.12 | [LAPPI: Interactive Optimization with LLM-Assisted Preference-Based Problem Instantiation](https://arxiv.org/pdf/2512.14138) || `TSP,OP` | *arxiv* | Formulation |
-| 2026.01 | [DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization](https://arxiv.org/pdf/2601.06502) || `TSP,CVRP, BPP,MKP` | *arxiv* | Algorithm |
+| 2026.01 | [DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization](https://arxiv.org/pdf/2601.06502) || `TSP,CVRP, BPP,MKP` | *AAMAS 2026* | Algorithm |
 | 2026.01 | [LLM-Assisted Automatic Dispatching Rule Design for Dynamic Flexible Assembly Flow Shop Scheduling](https://arxiv.org/pdf/2601.15738) || `Dynamic FAFSP` | *arxiv* | Algorithm |
 | 2026.01 | [Evolving Interdependent Operators with Large Language Models for Multi-Objective Combinatorial Optimization](https://arxiv.org/pdf/2601.17899) || `MOCP` | *arxiv* | Algorithm |
 | 2026.01 | [Algorithmic Prompt-Augmentation for Efficient LLM-Based Heuristic Design for A* Search](https://arxiv.org/pdf/2601.19622) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/tb-git-tud/a-ceoh-evolution-of-heuristics)| `SP,ULPMP` | *arxiv* | Algorithm |
@@ -174,7 +174,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.04 | [Infeasibility Aware Large Language Models for Combinatorial Optimization](https://arxiv.org/pdf/2604.01455) | | `Minor-embedding, k-coloring` | *arXiv* | Solution |
 | 2026.04 | [NED-Tree: Bridging the Semantic Gap with Nonlinear Element Decomposition Tree for LLM Nonlinear Optimization Modeling](https://arxiv.org/pdf/2604.01588) | | `OR` | *arXiv* | Formulation |
 | 2026.04 | [ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback](https://arxiv.org/pdf/2604.04940) | | `BPP,TSP,CVRP` | *arXiv* | Algorithm |
-| 2026.04 | [PyVRP^+: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems](https://arxiv.org/pdf/2604.07872) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ra-MANUJ-an/pyvrp-code) | `VRP` | *arXiv* | Algorithm |
+| 2026.04 | [PyVRP^+: LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems](https://arxiv.org/pdf/2604.07872) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ra-MANUJ-an/pyvrp-code) | `VRP` | *AAMAS 2026* | Algorithm |
 | 2026.04 | [BEAM: Bi-level Memory-adaptive Algorithmic Evolution for LLM-Powered Heuristic Design](https://arxiv.org/pdf/2604.12898) | | `TSP,CVRP, BPP,MIS` | *arXiv* | Algorithm |
 | 2026.04 | [AutoOR: Scalably Post-training LLMs to Autoformalize Operations Research Problems](https://arxiv.org/pdf/2604.16804) | | `` | *arXiv* | Formulation |
 | 2026.04 | [Co-evolving Agent Architectures and Interpretable Reasoning for Automated Optimization](https://arxiv.org/pdf/2604.17708) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/EvoNexusX/2026HuangEvoORAgent)| `OR` | *arXiv* | Formulation |
@@ -216,3 +216,5 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 | 2025.08 | [FORGE: Foundational Optimization Representations from Graph Embeddings](https://arxiv.org/pdf/2508.20330) || `MIP` | *arxiv* |
 | 2025.09 | [Graph Foundation Models: Bridging Language Model Paradigms and Graph Optimization](https://arxiv.org/abs/2509.24256) || `OR` | *arxiv* |
 | 2025.11 | [Foundation Models for Industrial Scheduling Leveraging the Techniques from LLMs](https://openreview.net/pdf?id=qRjLjYrvMi) || `FJSP` | *Under Review* |
+| 2025.12 | [COFormer: Towards a Foundation Model for Solving Combinatorial Optimization Problems](https://openreview.net/pdf?id=5mN7TWH6OI) || `COP` | *Under Review* |
+| 2025.12 | [OPTFM: A Scalable Multi-View Graph Transformer for Hierarchical Pre-Training in Combinatorial Optimization](https://openreview.net/pdf?id=24tuzE5KZc) || `General COP` | *NeurIPS 2025* |
