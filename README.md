@@ -188,6 +188,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.05 | [AHD Agent: Agentic Reinforcement Learning for Automatic Heuristic Design](https://arxiv.org/pdf/2605.08756) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Antoniano1963/AHD-Agent)| `TSP,OP,MKP, CVRP,OVRP` | *arXiv* | Algorithm |
 | 2026.05 | [LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs](https://arxiv.org/pdf/2605.10401) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/hzn18/LLM4Branch) | `MILP` | *ICML 2026* | Algorithm |
 | 2026.05 | [Teacher-Aware Evolution of Heuristic Programs from Learned Optimization Policies](https://arxiv.org/pdf/2605.10634) | | `JSSP,TSP, CVRP,MaxCut` | *arxiv* | Algorithm |
+| 2026.05 | [Formalize, Don’t Optimize: The Heuristic Trap in LLM-Generated Combinatorial Solvers](https://arxiv.org/pdf/2605.12421) | | `COP` | *arxiv* | Benchmark |
 ----
 
 ### Domain FMs for Combinatorial Optimization
