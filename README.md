@@ -190,6 +190,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.05 | [Teacher-Aware Evolution of Heuristic Programs from Learned Optimization Policies](https://arxiv.org/pdf/2605.10634) | | `JSSP,TSP, CVRP,MaxCut` | *arxiv* | Algorithm |
 | 2026.05 | [Formalize, Don’t Optimize: The Heuristic Trap in LLM-Generated Combinatorial Solvers](https://arxiv.org/pdf/2605.12421) | | `COP` | *arxiv* | Benchmark |
 | 2026.05 | [Distribution-Aware Algorithm Design with LLM Agents](https://arxiv.org/pdf/2605.14141) | | `COP` | *arxiv* | Algorithm |
+| 2026.05 | [LLM-Enabled Automated Algorithm Design for Multiuser Fluid Antenna Communications](https://arxiv.org/pdf/2605.14661) | | `FAS` | *arxiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
