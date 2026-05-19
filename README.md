@@ -191,6 +191,9 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.05 | [Formalize, Don’t Optimize: The Heuristic Trap in LLM-Generated Combinatorial Solvers](https://arxiv.org/pdf/2605.12421) | | `COP` | *arxiv* | Benchmark |
 | 2026.05 | [Distribution-Aware Algorithm Design with LLM Agents](https://arxiv.org/pdf/2605.14141) | | `COP` | *arxiv* | Algorithm |
 | 2026.05 | [LLM-Enabled Automated Algorithm Design for Multiuser Fluid Antenna Communications](https://arxiv.org/pdf/2605.14661) | | `FAS` | *arxiv* | Algorithm |
+| 2026.05 | [Latent Heuristic Search: Continuous Optimization for Automated Algorithm Design](https://arxiv.org/pdf/2605.17137) | | `TSP,CVRP,OBP,KSP` | *arxiv* | Algorithm |
+| 2026.05 | [Memory-Guided Tree Search with Cross-Branch Knowledge Transfer for LLM Solver Synthesis](https://arxiv.org/pdf/2605.17539) | | `ALP,PVRP,CLP, CLPWR,RCSPP, CSP,ESTP` | *arxiv* | Algorithm |
+| 2026.05 | [Beyond Inference-Time Search: Reinforcement Learning Synthesizes Reusable Solvers](https://arxiv.org/pdf/2605.18374) | | `SDS` | *arxiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
