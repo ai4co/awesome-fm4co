@@ -184,17 +184,23 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.04 | [AutoQResearch: LLM-Guided Closed-Loop Policy Search for Adaptive Variational Quantum Optimization](https://arxiv.org/pdf/2604.24283) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/SMU-Quantum/autoqresearch/tree/main) | `MIS,CVRP` | *arXiv* | Algorithm |
 | 2026.04 | [Design Structure Matrix Modularization with Large Language Models](https://arxiv.org/pdf/2604.28018) | | `DSM modularization` | *arXiv* | Solution |
 | 2026.05 | [Back to the Beginning of Heuristic Design: Bridging Code and Knowledge with LLMs](https://arxiv.org/pdf/2605.06123) | | `TSP,CVRP,JSSP,OP,QAP` | *arXiv* | Algorithm |
-| 2026.05 | [CoupleEvo: Evolving Heuristics for Coupled Optimization Problems Using Large Language Models](https://arxiv.org/pdf/2605.06341) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/tb-git-kit-research/CoupleEvo)| `IRP,MRMUPMP` | *arXiv* | Algorithm |
+| 2026.05 | [CoupleEvo: Evolving Heuristics for Coupled Optimization Problems Using Large Language Models](https://arxiv.org/pdf/2605.06341) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/tb-git-kit-research/CoupleEvo)| `IRP,MRMUPMP` | *GECCO 2026* | Algorithm |
 | 2026.05 | [HMACE: Heterogeneous Multi-Agent Collaborative Evolution for Combinatorial Optimization](https://arxiv.org/pdf/2605.07214) | | `TSP,BPP, MKP,PFSP` | *arXiv* | Algorithm |
 | 2026.05 | [AHD Agent: Agentic Reinforcement Learning for Automatic Heuristic Design](https://arxiv.org/pdf/2605.08756) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Antoniano1963/AHD-Agent)| `TSP,OP,MKP, CVRP,OVRP` | *arXiv* | Algorithm |
+| 2026.05 | [LEVI: Stronger Search Architectures Can Substitute for Larger LLMs in Evolutionary Search](https://arxiv.org/pdf/2605.09764) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ttanv/levi) | `Scheduling` | *arxiv* | Algorithm |
 | 2026.05 | [LLM4Branch: Large Language Model for Discovering Efficient Branching Policies of Integer Programs](https://arxiv.org/pdf/2605.10401) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/hzn18/LLM4Branch) | `MILP` | *ICML 2026* | Algorithm |
-| 2026.05 | [Teacher-Aware Evolution of Heuristic Programs from Learned Optimization Policies](https://arxiv.org/pdf/2605.10634) | | `JSSP,TSP, CVRP,MaxCut` | *arxiv* | Algorithm |
+| 2026.05 | [Teacher-Aware Evolution of Heuristic Programs from Learned Optimization Policies](https://arxiv.org/pdf/2605.10634) | | `JSSP,CVRP, TSP,MaxCut` | *arxiv* | Algorithm |
 | 2026.05 | [Formalize, Don’t Optimize: The Heuristic Trap in LLM-Generated Combinatorial Solvers](https://arxiv.org/pdf/2605.12421) | | `COP` | *arxiv* | Benchmark |
 | 2026.05 | [Distribution-Aware Algorithm Design with LLM Agents](https://arxiv.org/pdf/2605.14141) | | `COP` | *arxiv* | Algorithm |
 | 2026.05 | [LLM-Enabled Automated Algorithm Design for Multiuser Fluid Antenna Communications](https://arxiv.org/pdf/2605.14661) | | `FAS` | *arxiv* | Algorithm |
+| 2026.05 | [Effective Harness Engineering for Algorithm Discovery with Coding Agents](https://arxiv.org/pdf/2605.15221) | | `CirclePacking` | *arxiv* | Algorithm |
 | 2026.05 | [Latent Heuristic Search: Continuous Optimization for Automated Algorithm Design](https://arxiv.org/pdf/2605.17137) | | `TSP,CVRP,OBP,KSP` | *arxiv* | Algorithm |
-| 2026.05 | [Memory-Guided Tree Search with Cross-Branch Knowledge Transfer for LLM Solver Synthesis](https://arxiv.org/pdf/2605.17539) | | `ALP,PVRP,CLP, CLPWR,RCSPP, CSP,ESTP` | *arxiv* | Algorithm |
-| 2026.05 | [Beyond Inference-Time Search: Reinforcement Learning Synthesizes Reusable Solvers](https://arxiv.org/pdf/2605.18374) | | `SDS` | *arxiv* | Algorithm |
+| 2026.05 | [Memory-Guided Tree Search with Cross-Branch Knowledge Transfer for LLM Solver Synthesis](https://arxiv.org/pdf/2605.17539) | | `ALP,PVRP,CLP, CLPWR,RCSPP, CSP,EST` | *arxiv* | Algorithm |
+| 2026.05 | [Beyond Inference-Time Search: Reinforcement Learning Synthesizes Reusable Solvers](https://arxiv.org/pdf/2605.18374) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/IDEALLab/neural-solver-synthesis) | `SDS` | *arxiv* | Analysis |
+| 2026.05 | [What Do Evolutionary Coding Agents Evolve?](https://arxiv.org/pdf/2605.20086) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ZIB-IOL/EvoReplay)<br> [![Dataset](https://img.shields.io/badge/Dataset-74aa9c?style=for-the-badge)](https://huggingface.co/datasets/ZIB-IOL/EvoTrace)| `CO` | *arxiv* | Analysis |
+| 2026.05 | [TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling](https://arxiv.org/pdf/2605.23966) | | `OR` | *arxiv* | Algorithm & Benchmark |
+| 2026.05 | [DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents](https://arxiv.org/pdf/2605.27566) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/dsbx7/DynaSchedBench) <br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://dsbx7.github.io/)| `DFJSP` | *ICML 2026* | Benchmark |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
