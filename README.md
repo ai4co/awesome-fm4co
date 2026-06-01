@@ -200,7 +200,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.05 | [What Do Evolutionary Coding Agents Evolve?](https://arxiv.org/pdf/2605.20086) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/ZIB-IOL/EvoReplay)<br> [![Dataset](https://img.shields.io/badge/Dataset-74aa9c?style=for-the-badge)](https://huggingface.co/datasets/ZIB-IOL/EvoTrace)| `CO` | *arxiv* | Analysis |
 | 2026.05 | [TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling](https://arxiv.org/pdf/2605.23966) | | `OR` | *arxiv* | Algorithm & Benchmark |
 | 2026.05 | [DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents](https://arxiv.org/pdf/2605.27566) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/dsbx7/DynaSchedBench) <br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://dsbx7.github.io/)| `DFJSP` | *ICML 2026* | Benchmark |
-
+| 2026.05 | [Learning to Solve and Optimize by Evolving Code](https://arxiv.org/pdf/2605.31049) | | `HCP,CCP, E-DFJSP` | *arxiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
