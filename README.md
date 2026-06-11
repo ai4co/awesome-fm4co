@@ -237,3 +237,4 @@ Developing a domain FM capable of solving a wide range of COPs presents an intri
 | 2025.11 | [Foundation Models for Industrial Scheduling Leveraging the Techniques from LLMs](https://openreview.net/pdf?id=qRjLjYrvMi) || `FJSP` | *Under Review* |
 | 2025.12 | [COFormer: Towards a Foundation Model for Solving Combinatorial Optimization Problems](https://openreview.net/pdf?id=5mN7TWH6OI) || `COP` | *Under Review* |
 | 2025.12 | [OPTFM: A Scalable Multi-View Graph Transformer for Hierarchical Pre-Training in Combinatorial Optimization](https://openreview.net/pdf?id=24tuzE5KZc) || `General COP` | *NeurIPS 2025* |
+| 2026.06 | [Vision-Assisted Foundation Model for Solving Multi-Task Vehicle Routing Problems](https://arxiv.org/pdf/2606.10431) || `VRP` | *TNNLS* |
