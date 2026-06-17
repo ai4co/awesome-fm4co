@@ -203,7 +203,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.05 | [Learning to Solve and Optimize by Evolving Code](https://arxiv.org/pdf/2605.31049) | | `HCP,CCP, E-DFJSP` | *arxiv* | Algorithm |
 | 2026.05 | [LLM-Driven Co-Evolutionary Automated Heuristic Design for Bi-Component Coupled Combinatorial Optimization](https://arxiv.org/pdf/2606.00718) | | `TTP,TPP` | *arxiv* | Algorithm |
 | 2026.06 | [Beyond Objective Equivalence: Constraint Injection for LLM-Based Optimization Modeling on Vehicle Routing Problems](https://arxiv.org/pdf/2606.04816) | | `VRP` | *arxiv* | Solution |
-
+| 2026.06 | [Large Language Model-Driven Cooperative Operator Ensemble Evolution for Permutation Flow Shop Scheduling](https://arxiv.org/pdf/2606.15334) | | `PFSP` | *arxiv* | Algorithm |
 ----
 
 ### Domain FMs for Combinatorial Optimization
