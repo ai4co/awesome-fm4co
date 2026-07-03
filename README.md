@@ -205,6 +205,9 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.06 | [Beyond Objective Equivalence: Constraint Injection for LLM-Based Optimization Modeling on Vehicle Routing Problems](https://arxiv.org/pdf/2606.04816) | | `VRP` | *arxiv* | Solution |
 | 2026.06 | [Large Language Model-Driven Cooperative Operator Ensemble Evolution for Permutation Flow Shop Scheduling](https://arxiv.org/pdf/2606.15334) | | `PFSP` | *arxiv* | Algorithm |
 | 2026.06 | [Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks](https://arxiv.org/pdf/2606.19741) | | `TSP,CVRP` | *arxiv* | Algorithm |
+| 2026.06 | [RAISE: LLM-based Automated Heuristic Design with Robust Adversary Instance Search](https://arxiv.org/pdf/2606.31801) | | `OBP,OJSP,OVRP` | *arxiv* | Algorithm |
+| 2026.07 | [Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives](https://arxiv.org/pdf/2607.00604) | | `VRP` | *arxiv* | Review |
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
