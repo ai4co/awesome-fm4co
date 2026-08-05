@@ -214,6 +214,12 @@ Most research utilizes existing FMs from language and vision domains to generate
 Automated Heuristic Design](https://arxiv.org/pdf/2607.13911) | | `TSP,KP,OBP, ASP,CVRP` | *arxiv* | Algorithm |
 | 2026.07 | [JOR-Bench: Japanese Operations Research Benchmarks for Large Language Models](https://arxiv.org/abs/2607.16777) | | `OR` | *arxiv* | Benchmark |
 | 2026.07 | [LaT: LLM-as-Trainer for Multi-Task Vehicle Routing Solvers](https://arxiv.org/pdf/2607.17708) | | `VRP` | *arxiv* | Algorithm |
+| 2026.07 | [SpecAHD: Localize to Specialize for Automated Heuristic Design in Large-Scale Routing Problems](https://arxiv.org/pdf/2607.23676) | | `TSP,CVRP, VRPTW,SDVRP` | *arxiv* | Algorithm |
+| 2026.07 | [Guiding Large Language Models with Genetic Programming-Evolved Heuristic Knowledge for Dynamic Multi-Mode Project Scheduling](https://arxiv.org/pdf/2607.27698) | | `DMRCPSP` | *arxiv* | Algorithm |
+| 2026.07 | [LLM-Guided Evolutionary Search for Constraint Model Reformulation to Improve Solver Efficiency](https://arxiv.org/pdf/2607.28268) | | `CSP` | *arxiv* | Algorithm |
+| 2026.07 | [AutoPref: Automatic Discovery of Task-Specific Preference Objectives for Neural Combinatorial Optimization](https://arxiv.org/pdf/2607.27953) | | `TSP,CVRP, FFSP,JSSP` | *arxiv* | Algorithm |
+| 2026.08 | [DGA2D: Directed Graph-Guided Automated Algorithm Design with Large Language Models](https://arxiv.org/pdf/2608.00700) | | `TSP,FJSP,MIS,CLP` | *arxiv* | Algorithm |
+| 2026.08 | [MuEvo: LLM-Driven Evolution of Multi-Heuristic Ensemble](https://arxiv.org/pdf/2608.03636) | | `TSP,BPP,CVRP` | *arxiv* | Algorithm |
 
 ----
 
