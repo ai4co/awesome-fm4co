@@ -221,6 +221,12 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.08 | [MuEvo: LLM-Driven Evolution of Multi-Heuristic Ensemble](https://arxiv.org/pdf/2608.03636) | | `TSP,BPP,CVRP` | *arxiv* | Algorithm |
 | 2026.08 | [Improving Natural-Language Combinatorial-Optimization Accuracy in Resource-Constrained Language Models via Formal Abstractions](https://arxiv.org/pdf/2608.18409) | | `JSSP` | *arxiv* | Formulation |
 | 2026.08 | [FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations](https://arxiv.org/pdf/2608.23353) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Xyz-yuanhf/formuevo)| `TSP,JSSP,BPP, CFLP,QAP` | *EMNLP 2026* | Algorithm |
+| 2026.08 | [AlgoWorlds: Benchmarking Tool Use for Global Optimization in Algorithmic Worlds](https://arxiv.org/pdf/2608.29397) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/xzx34/AlgoWorlds)<br>[![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://xzx34.github.io/AlgoWorlds/) | `OPT` | *arxiv* | Benchmark |
+| 2026.09 | [ES-AHD: An Evolution Strategy Framework for Automatic Heuristic Design](https://arxiv.org/pdf/2609.00023) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Mriya0306/ES-AHD) | `TSP` | *ICIST 2026* | Algorithm |
+| 2026.09 | [Reinforcement Learning Enhanced LLM Agents for Complex Vehicle Routing Problems](https://arxiv.org/pdf/2609.00859) | | `VRP` | *arxiv* | Algorithm |
+| 2026.09 | [LLM-Driven Joint Evolution of Coupled Heuristics Components for Routing Optimization](https://arxiv.org/pdf/2609.02353) | | `TSP,CVRP` | *arxiv* | Algorithm |
+
+
 ----
 
 ### Domain FMs for Combinatorial Optimization
