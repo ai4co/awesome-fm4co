@@ -203,6 +203,7 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.05 | [DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents](https://arxiv.org/pdf/2605.27566) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/dsbx7/DynaSchedBench) <br> [![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://dsbx7.github.io/)| `DFJSP` | *ICML 2026* | Benchmark |
 | 2026.05 | [Learning to Solve and Optimize by Evolving Code](https://arxiv.org/pdf/2605.31049) | | `HCP,CCP, E-DFJSP` | *arxiv* | Algorithm |
 | 2026.05 | [LLM-Driven Co-Evolutionary Automated Heuristic Design for Bi-Component Coupled Combinatorial Optimization](https://arxiv.org/pdf/2606.00718) | | `TTP,TPP` | *arxiv* | Algorithm |
+| 2026.05 | [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/pdf/2604.01658) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Human-Agent-Society/CORAL) | `OR,ML` | *arxiv* | Algorithm |
 | 2026.06 | [Beyond Objective Equivalence: Constraint Injection for LLM-Based Optimization Modeling on Vehicle Routing Problems](https://arxiv.org/pdf/2606.04816) | | `VRP` | *arxiv* | Solution |
 | 2026.06 | [Large Language Model-Driven Cooperative Operator Ensemble Evolution for Permutation Flow Shop Scheduling](https://arxiv.org/pdf/2606.15334) | | `PFSP` | *arxiv* | Algorithm |
 | 2026.06 | [Interpreting Neural Combinatorial Optimization via Evolving Programmatic Bottlenecks](https://arxiv.org/pdf/2606.19741) | | `TSP,CVRP` | *arxiv* | Algorithm |
@@ -216,6 +217,19 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.07 | [LaT: LLM-as-Trainer for Multi-Task Vehicle Routing Solvers](https://arxiv.org/pdf/2607.17708) | | `VRP` | *arxiv* | Algorithm |
 | 2026.07 | [SCOPE: Synthetic Conditional Objectives for Policy Evolution in Black-Box Combinatorial Optimization](https://arxiv.org/abs/2607.27630) | | `OR` | *arxiv* | Algorithm |
 | 2026.07 | [RELIC: Revealed Principles for Learning Interpretable Composable Skills in Multi-Agent Planning](https://arxiv.org/abs/2607.16745v2) | | `OR` | *arxiv* | Algorithm |
+| 2026.07 | [SpecAHD: Localize to Specialize for Automated Heuristic Design in Large-Scale Routing Problems](https://arxiv.org/pdf/2607.23676) | | `TSP,CVRP, VRPTW,SDVRP` | *arxiv* | Algorithm |
+| 2026.07 | [Guiding Large Language Models with Genetic Programming-Evolved Heuristic Knowledge for Dynamic Multi-Mode Project Scheduling](https://arxiv.org/pdf/2607.27698) | | `DMRCPSP` | *arxiv* | Algorithm |
+| 2026.07 | [LLM-Guided Evolutionary Search for Constraint Model Reformulation to Improve Solver Efficiency](https://arxiv.org/pdf/2607.28268) | | `CSP` | *arxiv* | Algorithm |
+| 2026.07 | [AutoPref: Automatic Discovery of Task-Specific Preference Objectives for Neural Combinatorial Optimization](https://arxiv.org/pdf/2607.27953) | | `TSP,CVRP, FFSP,JSSP` | *arxiv* | Algorithm |
+| 2026.08 | [DGA2D: Directed Graph-Guided Automated Algorithm Design with Large Language Models](https://arxiv.org/pdf/2608.00700) | | `TSP,FJSP,MIS,CLP` | *arxiv* | Algorithm |
+| 2026.08 | [MuEvo: LLM-Driven Evolution of Multi-Heuristic Ensemble](https://arxiv.org/pdf/2608.03636) | | `TSP,BPP,CVRP` | *arxiv* | Algorithm |
+| 2026.08 | [Improving Natural-Language Combinatorial-Optimization Accuracy in Resource-Constrained Language Models via Formal Abstractions](https://arxiv.org/pdf/2608.18409) | | `JSSP` | *arxiv* | Formulation |
+| 2026.08 | [FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations](https://arxiv.org/pdf/2608.23353) | [![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Xyz-yuanhf/formuevo)| `TSP,JSSP,BPP, CFLP,QAP` | *EMNLP 2026* | Algorithm |
+| 2026.08 | [AlgoWorlds: Benchmarking Tool Use for Global Optimization in Algorithmic Worlds](https://arxiv.org/pdf/2608.29397) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/xzx34/AlgoWorlds)<br>[![Project-Page](https://img.shields.io/badge/Page-74aa9c?style=for-the-badge)](https://xzx34.github.io/AlgoWorlds/) | `OPT` | *arxiv* | Benchmark |
+| 2026.09 | [ES-AHD: An Evolution Strategy Framework for Automatic Heuristic Design](https://arxiv.org/pdf/2609.00023) |[![Code](https://img.shields.io/badge/Code-025E8C?style=for-the-badge)](https://github.com/Mriya0306/ES-AHD) | `TSP` | *ICIST 2026* | Algorithm |
+| 2026.09 | [Reinforcement Learning Enhanced LLM Agents for Complex Vehicle Routing Problems](https://arxiv.org/pdf/2609.00859) | | `VRP` | *arxiv* | Algorithm |
+| 2026.09 | [LLM-Driven Joint Evolution of Coupled Heuristics Components for Routing Optimization](https://arxiv.org/pdf/2609.02353) | | `TSP,CVRP` | *arxiv* | Algorithm |
+
 
 ----
 
